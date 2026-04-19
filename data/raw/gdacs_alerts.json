@@ -1,0 +1,1898 @@
+[
+  {
+    "title": "Green earthquake (Magnitude 5.7M, Depth:18km) in Indonesia 18/04/2026 20:06 UTC, 3 thousand in MMI VI.",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536108",
+    "published": "Sat, 18 Apr 2026 20:26:51 GMT",
+    "summary": "On 4/18/2026 8:06:53 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand in MMI VI. The earthquake had Magnitude 5.7M, Depth:18km.",
+    "category": "EQ1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green earthquake (Magnitude 5.8M, Depth:47.956km) in Solomon Islands 18/04/2026 15:03 UTC, 60 thousand in MMI>=IV.",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536075",
+    "published": "Sat, 18 Apr 2026 15:21:52 GMT",
+    "summary": "On 4/18/2026 3:03:00 PM, an earthquake occurred in Solomon Islands potentially affecting 60 thousand in MMI>=IV. The earthquake had Magnitude 5.8M, Depth:47.956km.",
+    "category": "EQ1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in South Of Kermadec Islands 18/04/2026 10:47 UTC, [unknown].",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536041",
+    "published": "Sat, 18 Apr 2026 11:04:37 GMT",
+    "summary": "On 4/18/2026 10:47:54 AM, an earthquake occurred in South Of Kermadec Islands potentially affecting [unknown]. The earthquake had Magnitude 5.9M, Depth:10km.",
+    "category": "EQ1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Carlsberg Ridge 18/04/2026 05:59 UTC, [unknown].",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536007",
+    "published": "Sat, 18 Apr 2026 06:18:56 GMT",
+    "summary": "On 4/18/2026 5:59:58 AM, an earthquake occurred in Carlsberg Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+    "category": "EQ1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028470",
+    "published": "Sat, 18 Apr 2026 07:00:26 GMT",
+    "summary": "On 17/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028455",
+    "published": "Fri, 17 Apr 2026 15:00:09 GMT",
+    "summary": "On 17/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028456",
+    "published": "Fri, 17 Apr 2026 15:00:16 GMT",
+    "summary": "On 17/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green earthquake (Magnitude 6M, Depth:10km) in South Of Kermadec Islands 16/04/2026 13:30 UTC, [unknown].",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1535723",
+    "published": "Thu, 16 Apr 2026 13:46:03 GMT",
+    "summary": "On 4/16/2026 1:30:01 PM, an earthquake occurred in South Of Kermadec Islands potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+    "category": "EQ1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028474",
+    "published": "Sat, 18 Apr 2026 23:00:29 GMT",
+    "summary": "On 16/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028475",
+    "published": "Sat, 18 Apr 2026 19:00:47 GMT",
+    "summary": "On 16/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028425",
+    "published": "Thu, 16 Apr 2026 19:00:11 GMT",
+    "summary": "On 16/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028449",
+    "published": "Fri, 17 Apr 2026 03:00:14 GMT",
+    "summary": "On 16/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green earthquake (Magnitude 5.7M, Depth:20km) in Costa Rica 15/04/2026 06:56 UTC, 170 thousand in MMI IV.",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1535489",
+    "published": "Wed, 15 Apr 2026 07:16:04 GMT",
+    "summary": "On 4/15/2026 6:56:02 AM, an earthquake occurred in Costa Rica potentially affecting 170 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:20km.",
+    "category": "EQ1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028380",
+    "published": "Wed, 15 Apr 2026 11:00:18 GMT",
+    "summary": "On 15/04/2026, a forest fire started in China,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028382",
+    "published": "Wed, 15 Apr 2026 19:00:22 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Mongolia, China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028379",
+    "published": "Wed, 15 Apr 2026 11:00:11 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Mongolia, China,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028381",
+    "published": "Thu, 16 Apr 2026 07:00:34 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028426",
+    "published": "Fri, 17 Apr 2026 07:01:14 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028476",
+    "published": "Sat, 18 Apr 2026 19:01:54 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028457",
+    "published": "Fri, 17 Apr 2026 15:01:13 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028458",
+    "published": "Sat, 18 Apr 2026 07:01:45 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028413",
+    "published": "Thu, 16 Apr 2026 07:00:29 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028427",
+    "published": "Thu, 16 Apr 2026 19:00:33 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028428",
+    "published": "Fri, 17 Apr 2026 07:01:03 GMT",
+    "summary": "On 15/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green flood alert in Italy",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103839",
+    "published": "Wed, 15 Apr 2026 10:56:28 GMT",
+    "summary": "On 14/04/2026, a flood started in Italy, lasting until 16/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028414",
+    "published": "Thu, 16 Apr 2026 19:02:06 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028429",
+    "published": "Thu, 16 Apr 2026 11:01:23 GMT",
+    "summary": "On 14/04/2026, a forest fire started in China,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028430",
+    "published": "Sun, 19 Apr 2026 07:04:05 GMT",
+    "summary": "On 14/04/2026, a forest fire started in China,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028359",
+    "published": "Tue, 14 Apr 2026 19:00:15 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028415",
+    "published": "Sun, 19 Apr 2026 07:02:47 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028383",
+    "published": "Wed, 15 Apr 2026 19:00:59 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028388",
+    "published": "Wed, 15 Apr 2026 19:01:17 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028389",
+    "published": "Wed, 15 Apr 2026 11:01:35 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028364",
+    "published": "Wed, 15 Apr 2026 07:00:14 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028385",
+    "published": "Thu, 16 Apr 2026 07:01:08 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028387",
+    "published": "Wed, 15 Apr 2026 15:01:13 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028358",
+    "published": "Tue, 14 Apr 2026 19:00:10 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028360",
+    "published": "Tue, 14 Apr 2026 19:00:21 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028459",
+    "published": "Sun, 19 Apr 2026 07:03:34 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028462",
+    "published": "Fri, 17 Apr 2026 19:01:52 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028463",
+    "published": "Fri, 17 Apr 2026 15:02:19 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Guinea",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028445",
+    "published": "Thu, 16 Apr 2026 19:02:01 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Guinea,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028410",
+    "published": "Wed, 15 Apr 2026 19:01:24 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028488",
+    "published": "Sat, 18 Apr 2026 23:03:45 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028460",
+    "published": "Fri, 17 Apr 2026 19:03:15 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028461",
+    "published": "Fri, 17 Apr 2026 15:02:08 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028473",
+    "published": "Sat, 18 Apr 2026 07:03:09 GMT",
+    "summary": "On 14/04/2026, a forest fire started in China,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028487",
+    "published": "Sat, 18 Apr 2026 23:02:59 GMT",
+    "summary": "On 14/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028450",
+    "published": "Fri, 17 Apr 2026 07:02:03 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028384",
+    "published": "Fri, 17 Apr 2026 07:01:34 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028386",
+    "published": "Wed, 15 Apr 2026 19:01:35 GMT",
+    "summary": "On 14/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green flood alert in Canada",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103840",
+    "published": "Thu, 16 Apr 2026 06:05:54 GMT",
+    "summary": "On 13/04/2026, a flood started in Canada, lasting until 15/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green flood alert in United States",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103841",
+    "published": "Thu, 16 Apr 2026 10:26:10 GMT",
+    "summary": "On 13/04/2026, a flood started in United States, lasting until 15/04/2026 (last update). The flood caused 0 deaths and 150 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028390",
+    "published": "Thu, 16 Apr 2026 03:06:56 GMT",
+    "summary": "On 13/04/2026, a forest fire started in China,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Venezuela",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028366",
+    "published": "Tue, 14 Apr 2026 23:00:39 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Venezuela,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Russian Federation",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028339",
+    "published": "Tue, 14 Apr 2026 11:00:09 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Russian Federation,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028340",
+    "published": "Wed, 15 Apr 2026 07:00:38 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028341",
+    "published": "Tue, 14 Apr 2026 19:00:29 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028416",
+    "published": "Thu, 16 Apr 2026 07:02:30 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028342",
+    "published": "Tue, 14 Apr 2026 15:00:14 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028365",
+    "published": "Wed, 15 Apr 2026 03:00:38 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028431",
+    "published": "Thu, 16 Apr 2026 19:03:16 GMT",
+    "summary": "On 13/04/2026, a forest fire started in China,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Cuba",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028432",
+    "published": "Thu, 16 Apr 2026 15:03:29 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Cuba,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028489",
+    "published": "Sat, 18 Apr 2026 23:04:46 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028490",
+    "published": "Sun, 19 Apr 2026 07:04:52 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028411",
+    "published": "Wed, 15 Apr 2026 19:02:03 GMT",
+    "summary": "On 13/04/2026, a forest fire started in Australia,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Mexico",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028464",
+    "published": "Fri, 17 Apr 2026 11:05:27 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Mexico,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028477",
+    "published": "Sat, 18 Apr 2026 11:05:32 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028478",
+    "published": "Sun, 19 Apr 2026 07:06:15 GMT",
+    "summary": "On 12/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Viet Nam",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028479",
+    "published": "Sat, 18 Apr 2026 11:06:16 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Viet Nam,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028362",
+    "published": "Tue, 14 Apr 2026 19:00:55 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Sudan,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Bangladesh, India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028391",
+    "published": "Wed, 15 Apr 2026 11:02:37 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Bangladesh, India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028392",
+    "published": "Wed, 15 Apr 2026 19:02:36 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028375",
+    "published": "Wed, 15 Apr 2026 15:02:35 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Sudan,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028412",
+    "published": "Wed, 15 Apr 2026 23:03:19 GMT",
+    "summary": "On 12/04/2026, a forest fire started in India,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028393",
+    "published": "Sun, 19 Apr 2026 07:05:20 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Guinea",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028446",
+    "published": "Thu, 16 Apr 2026 19:03:56 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Guinea,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in Guinea",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028361",
+    "published": "Wed, 15 Apr 2026 15:02:45 GMT",
+    "summary": "On 12/04/2026, a forest fire started in Guinea,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.554925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028408",
+    "published": "Wed, 15 Apr 2026 15:03:08 GMT",
+    "summary": "On 11/04/2026, a forest fire started in India,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028367",
+    "published": "Tue, 14 Apr 2026 23:01:17 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028351",
+    "published": "Tue, 14 Apr 2026 23:01:31 GMT",
+    "summary": "On 11/04/2026, a forest fire started in India,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Venezuela",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028318",
+    "published": "Mon, 13 Apr 2026 15:00:15 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Venezuela,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Russian Federation",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028376",
+    "published": "Wed, 15 Apr 2026 07:01:33 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Russian Federation,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028434",
+    "published": "Thu, 16 Apr 2026 15:04:46 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028440",
+    "published": "Fri, 17 Apr 2026 11:06:22 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Sudan,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028343",
+    "published": "Tue, 14 Apr 2026 19:01:01 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028395",
+    "published": "Wed, 15 Apr 2026 19:03:45 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028433",
+    "published": "Fri, 17 Apr 2026 07:05:36 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028417",
+    "published": "Wed, 15 Apr 2026 23:03:33 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028418",
+    "published": "Thu, 16 Apr 2026 07:03:36 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Bangladesh",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028480",
+    "published": "Sat, 18 Apr 2026 11:07:49 GMT",
+    "summary": "On 11/04/2026, a forest fire started in Bangladesh,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028493",
+    "published": "Sun, 19 Apr 2026 07:06:52 GMT",
+    "summary": "On 11/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Myanmar",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028424",
+    "published": "Thu, 16 Apr 2026 07:06:18 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Myanmar,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028471",
+    "published": "Sat, 18 Apr 2026 07:07:27 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Nepal",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028441",
+    "published": "Fri, 17 Apr 2026 11:07:25 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Nepal,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028483",
+    "published": "Sat, 18 Apr 2026 23:10:46 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Viet Nam",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028484",
+    "published": "Sun, 19 Apr 2026 07:09:22 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Viet Nam,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028481",
+    "published": "Sat, 18 Apr 2026 11:08:27 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Laos,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028465",
+    "published": "Fri, 17 Apr 2026 15:07:47 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Myanmar",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028397",
+    "published": "Wed, 15 Apr 2026 11:04:21 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Myanmar,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Bangladesh",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028398",
+    "published": "Wed, 15 Apr 2026 11:04:32 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Bangladesh,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Bangladesh, India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028399",
+    "published": "Wed, 15 Apr 2026 11:04:45 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Bangladesh, India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Bangladesh, India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028409",
+    "published": "Thu, 16 Apr 2026 11:06:13 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Bangladesh, India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Cuba",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028368",
+    "published": "Wed, 15 Apr 2026 07:02:36 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Cuba,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028371",
+    "published": "Wed, 15 Apr 2026 11:04:39 GMT",
+    "summary": "On 10/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028435",
+    "published": "Thu, 16 Apr 2026 11:05:28 GMT",
+    "summary": "On 10/04/2026, a forest fire started in India,  until 19/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028352",
+    "published": "Tue, 14 Apr 2026 23:02:17 GMT",
+    "summary": "On 10/04/2026, a forest fire started in India,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India, Nepal",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028353",
+    "published": "Tue, 14 Apr 2026 23:02:28 GMT",
+    "summary": "On 10/04/2026, a forest fire started in India, Nepal,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India, Bangladesh",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028324",
+    "published": "Tue, 14 Apr 2026 11:01:05 GMT",
+    "summary": "On 10/04/2026, a forest fire started in India, Bangladesh,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028329",
+    "published": "Mon, 13 Apr 2026 23:00:36 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028320",
+    "published": "Mon, 13 Apr 2026 19:00:54 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Australia,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028369",
+    "published": "Wed, 15 Apr 2026 03:02:16 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028394",
+    "published": "Wed, 15 Apr 2026 11:03:10 GMT",
+    "summary": "On 10/04/2026, a forest fire started in India,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028396",
+    "published": "Wed, 15 Apr 2026 19:04:39 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Australia,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028330",
+    "published": "Tue, 14 Apr 2026 07:00:28 GMT",
+    "summary": "On 10/04/2026, a forest fire started in Australia,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028299",
+    "published": "Sun, 12 Apr 2026 15:00:31 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Australia,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028447",
+    "published": "Sun, 19 Apr 2026 07:10:39 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028336",
+    "published": "Tue, 14 Apr 2026 11:01:45 GMT",
+    "summary": "On 09/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028325",
+    "published": "Mon, 13 Apr 2026 15:01:09 GMT",
+    "summary": "On 09/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028354",
+    "published": "Tue, 14 Apr 2026 23:03:11 GMT",
+    "summary": "On 09/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028345",
+    "published": "Tue, 14 Apr 2026 11:02:01 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Laos,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028355",
+    "published": "Tue, 14 Apr 2026 23:03:18 GMT",
+    "summary": "On 09/04/2026, a forest fire started in India,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028442",
+    "published": "Thu, 16 Apr 2026 15:08:29 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Sudan,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028234",
+    "published": "Fri, 10 Apr 2026 15:00:11 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Australia,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Red notification for tropical cyclone SINLAKU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 52601 .",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001270",
+    "published": "Thu, 09 Apr 2026 02:21:25 GMT",
+    "summary": "From 09/04/2026 to 19/04/2026, a Tropical Storm (maximum wind speed of 287 km/h) SINLAKU-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands, Guam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 52601 .",
+    "category": "TC1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028451",
+    "published": "Thu, 16 Apr 2026 23:08:27 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028482",
+    "published": "Sat, 18 Apr 2026 11:10:27 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028485",
+    "published": "Sat, 18 Apr 2026 15:11:25 GMT",
+    "summary": "On 09/04/2026, a forest fire started in Sudan,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028486",
+    "published": "Sat, 18 Apr 2026 15:12:18 GMT",
+    "summary": "On 08/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028443",
+    "published": "Thu, 16 Apr 2026 15:09:09 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Sudan,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028466",
+    "published": "Fri, 17 Apr 2026 19:11:49 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Myanmar",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028452",
+    "published": "Fri, 17 Apr 2026 07:09:23 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Myanmar,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028419",
+    "published": "Thu, 16 Apr 2026 07:07:43 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand, Myanmar",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028436",
+    "published": "Thu, 16 Apr 2026 15:09:30 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Thailand, Myanmar,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028346",
+    "published": "Tue, 14 Apr 2026 11:02:53 GMT",
+    "summary": "On 08/04/2026, a forest fire started in India,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028331",
+    "published": "Tue, 14 Apr 2026 07:02:03 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Nicaragua",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028347",
+    "published": "Tue, 14 Apr 2026 15:03:41 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Nicaragua,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028420",
+    "published": "Thu, 16 Apr 2026 07:08:28 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028287",
+    "published": "Sat, 11 Apr 2026 19:00:34 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028237",
+    "published": "Fri, 10 Apr 2026 19:00:33 GMT",
+    "summary": "On 08/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028288",
+    "published": "Sat, 11 Apr 2026 19:01:09 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028326",
+    "published": "Tue, 14 Apr 2026 07:03:13 GMT",
+    "summary": "On 07/04/2026, a forest fire started in India,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Australia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028402",
+    "published": "Wed, 15 Apr 2026 11:08:24 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Australia,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028300",
+    "published": "Sun, 12 Apr 2026 11:01:46 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028400",
+    "published": "Thu, 16 Apr 2026 07:09:24 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Guinea",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028363",
+    "published": "Wed, 15 Apr 2026 03:04:54 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Guinea,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028292",
+    "published": "Sat, 11 Apr 2026 23:01:30 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028301",
+    "published": "Sun, 12 Apr 2026 19:02:04 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028421",
+    "published": "Thu, 16 Apr 2026 07:09:56 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028302",
+    "published": "Sun, 12 Apr 2026 11:02:20 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028348",
+    "published": "Tue, 14 Apr 2026 11:03:10 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028401",
+    "published": "Wed, 15 Apr 2026 11:07:57 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028437",
+    "published": "Thu, 16 Apr 2026 11:09:38 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Honduras",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028422",
+    "published": "Thu, 16 Apr 2026 07:09:52 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Honduras,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028283",
+    "published": "Sat, 11 Apr 2026 15:00:52 GMT",
+    "summary": "On 07/04/2026, a forest fire started in India,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Sudan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028444",
+    "published": "Thu, 16 Apr 2026 19:10:13 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Sudan,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028491",
+    "published": "Sat, 18 Apr 2026 23:14:10 GMT",
+    "summary": "On 07/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028472",
+    "published": "Sat, 18 Apr 2026 07:13:42 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028403",
+    "published": "Thu, 16 Apr 2026 07:10:07 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028453",
+    "published": "Fri, 17 Apr 2026 03:11:23 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Myanmar, Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028438",
+    "published": "Thu, 16 Apr 2026 11:10:35 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Myanmar, Thailand,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028356",
+    "published": "Tue, 14 Apr 2026 15:04:53 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028321",
+    "published": "Mon, 13 Apr 2026 11:02:48 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Thailand,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028332",
+    "published": "Tue, 14 Apr 2026 07:03:55 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028454",
+    "published": "Fri, 17 Apr 2026 07:12:42 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Thailand,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028311",
+    "published": "Mon, 13 Apr 2026 03:02:34 GMT",
+    "summary": "On 06/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028312",
+    "published": "Mon, 13 Apr 2026 07:02:51 GMT",
+    "summary": "On 05/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028280",
+    "published": "Sat, 11 Apr 2026 19:02:08 GMT",
+    "summary": "On 05/04/2026, a forest fire started in Laos,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028239",
+    "published": "Fri, 10 Apr 2026 11:01:38 GMT",
+    "summary": "On 05/04/2026, a forest fire started in India,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos, Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028349",
+    "published": "Tue, 14 Apr 2026 15:05:43 GMT",
+    "summary": "On 05/04/2026, a forest fire started in Laos, Thailand,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand, Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028370",
+    "published": "Tue, 14 Apr 2026 23:06:45 GMT",
+    "summary": "On 05/04/2026, a forest fire started in Thailand, Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028374",
+    "published": "Wed, 15 Apr 2026 03:07:57 GMT",
+    "summary": "On 05/04/2026, a forest fire started in Thailand,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028467",
+    "published": "Fri, 17 Apr 2026 19:16:30 GMT",
+    "summary": "On 05/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028468",
+    "published": "Fri, 17 Apr 2026 19:17:19 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028492",
+    "published": "Sat, 18 Apr 2026 23:19:50 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Thailand,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028373",
+    "published": "Wed, 15 Apr 2026 03:06:12 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028423",
+    "published": "Wed, 15 Apr 2026 23:13:32 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028338",
+    "published": "Tue, 14 Apr 2026 07:05:30 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028240",
+    "published": "Fri, 10 Apr 2026 19:01:52 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028241",
+    "published": "Fri, 10 Apr 2026 19:02:08 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028304",
+    "published": "Sun, 12 Apr 2026 11:04:21 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in India",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028308",
+    "published": "Mon, 13 Apr 2026 07:03:52 GMT",
+    "summary": "On 04/04/2026, a forest fire started in India,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Viet Nam",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028322",
+    "published": "Mon, 13 Apr 2026 11:04:10 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Viet Nam,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028313",
+    "published": "Mon, 13 Apr 2026 07:04:09 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Laos,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028357",
+    "published": "Thu, 16 Apr 2026 07:12:32 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028293",
+    "published": "Sun, 12 Apr 2026 03:03:55 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Viet Nam",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028404",
+    "published": "Sun, 19 Apr 2026 07:18:23 GMT",
+    "summary": "On 04/04/2026, a forest fire started in Viet Nam,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028244",
+    "published": "Fri, 10 Apr 2026 11:03:10 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028294",
+    "published": "Sun, 12 Apr 2026 07:03:54 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028315",
+    "published": "Mon, 13 Apr 2026 19:07:03 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos, Viet Nam",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028314",
+    "published": "Mon, 13 Apr 2026 03:04:59 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Laos, Viet Nam,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028246",
+    "published": "Fri, 10 Apr 2026 11:03:28 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028248",
+    "published": "Fri, 10 Apr 2026 11:03:42 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028242",
+    "published": "Fri, 10 Apr 2026 11:02:46 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028405",
+    "published": "Wed, 15 Apr 2026 11:13:02 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028377",
+    "published": "Wed, 15 Apr 2026 07:09:45 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos, Viet Nam",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028439",
+    "published": "Fri, 17 Apr 2026 07:17:44 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Laos, Viet Nam,  until 18/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028469",
+    "published": "Sat, 18 Apr 2026 11:21:09 GMT",
+    "summary": "On 03/04/2026, a forest fire started in Thailand,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028406",
+    "published": "Wed, 15 Apr 2026 19:15:34 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028245",
+    "published": "Fri, 10 Apr 2026 11:03:16 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028250",
+    "published": "Fri, 10 Apr 2026 19:03:53 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028295",
+    "published": "Sun, 12 Apr 2026 03:05:10 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028323",
+    "published": "Mon, 13 Apr 2026 11:08:11 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028448",
+    "published": "Thu, 16 Apr 2026 19:17:28 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 17/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos, Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028333",
+    "published": "Tue, 14 Apr 2026 23:10:02 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos, Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028350",
+    "published": "Tue, 14 Apr 2026 11:10:44 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Thailand,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028251",
+    "published": "Fri, 10 Apr 2026 11:04:34 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028249",
+    "published": "Fri, 10 Apr 2026 11:04:24 GMT",
+    "summary": "On 02/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028252",
+    "published": "Fri, 10 Apr 2026 15:04:51 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028276",
+    "published": "Fri, 10 Apr 2026 23:05:42 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028289",
+    "published": "Sun, 12 Apr 2026 07:08:09 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos, Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028296",
+    "published": "Sun, 12 Apr 2026 07:07:54 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Laos, Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028177",
+    "published": "Sun, 05 Apr 2026 07:01:27 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028229",
+    "published": "Tue, 07 Apr 2026 23:03:16 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028407",
+    "published": "Wed, 15 Apr 2026 19:17:37 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028334",
+    "published": "Mon, 13 Apr 2026 23:08:51 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Laos,  until 16/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028327",
+    "published": "Mon, 13 Apr 2026 15:09:12 GMT",
+    "summary": "On 01/04/2026, a forest fire started in Laos,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028335",
+    "published": "Tue, 14 Apr 2026 07:12:13 GMT",
+    "summary": "On 31/03/2026, a forest fire started in Laos,  until 14/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Myanmar",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028309",
+    "published": "Sun, 12 Apr 2026 19:10:39 GMT",
+    "summary": "On 31/03/2026, a forest fire started in Myanmar,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028317",
+    "published": "Mon, 13 Apr 2026 07:11:28 GMT",
+    "summary": "On 31/03/2026, a forest fire started in Thailand,  until 14/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028260",
+    "published": "Fri, 10 Apr 2026 19:08:03 GMT",
+    "summary": "On 31/03/2026, a forest fire started in Laos,  until 14/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Laos",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028261",
+    "published": "Sat, 11 Apr 2026 07:07:36 GMT",
+    "summary": "On 31/03/2026, a forest fire started in Laos,  until 14/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green forest fire notification in Thailand",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028378",
+    "published": "Wed, 15 Apr 2026 07:14:57 GMT",
+    "summary": "On 31/03/2026, a forest fire started in Thailand,  until 15/04/2026.",
+    "category": "WF1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green flood alert in Argentina",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103822",
+    "published": "Tue, 31 Mar 2026 08:57:50 GMT",
+    "summary": "On 28/03/2026, a flood started in Argentina, lasting until 06/04/2026 (last update). The flood caused 1 deaths and 103 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green flood alert in Peru",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103823",
+    "published": "Wed, 01 Apr 2026 07:29:22 GMT",
+    "summary": "On 28/03/2026, a flood started in Peru, lasting until 12/04/2026 (last update). The flood caused 3 deaths and 108 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green flood alert in Indonesia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103786",
+    "published": "Wed, 04 Mar 2026 07:03:12 GMT",
+    "summary": "On 02/03/2026, a flood started in Indonesia, lasting until 12/04/2026 (last update). The flood caused 16 deaths and 1391 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Green flood alert in Brazil",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757",
+    "published": "Fri, 13 Mar 2026 18:12:26 GMT",
+    "summary": "On 03/02/2026, a flood started in Brazil, lasting until 16/04/2026 (last update). The flood caused 96 deaths and 15647 displaced .",
+    "category": "FL1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Libya, Tunisia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018406",
+    "published": "Wed, 25 Mar 2026 15:27:53 GMT",
+    "summary": "The  Drought notification level is Green.",
+    "category": "DR1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Austria, Belarus, Czech Republic, Germany, Denmark, Estonia, Lithuania, Latvia, Poland, Russia, Sweden, Slovakia, Ukraine",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018332",
+    "published": "Wed, 11 Feb 2026 09:57:31 GMT",
+    "summary": "The  Drought notification level is Green.",
+    "category": "DR1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Argentina, Uruguay",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018327",
+    "published": "Fri, 30 Jan 2026 08:39:15 GMT",
+    "summary": "The  Drought notification level is Orange.",
+    "category": "DR2",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in China",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018228",
+    "published": "Wed, 25 Mar 2026 15:27:49 GMT",
+    "summary": "The  Drought notification level is Green.",
+    "category": "DR1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Venezuela",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018196",
+    "published": "Fri, 19 Dec 2025 10:38:23 GMT",
+    "summary": "The  Drought notification level is Green.",
+    "category": "DR1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Mexico, United States",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018093",
+    "published": "Thu, 02 Oct 2025 10:20:21 GMT",
+    "summary": "The  Drought notification level is Green.",
+    "category": "DR1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Gabon, Zambia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018344",
+    "published": "Wed, 04 Feb 2026 09:58:20 GMT",
+    "summary": "The  Drought notification level is Orange.",
+    "category": "DR2",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Kenya, Somalia",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1017863",
+    "published": "Mon, 09 Jun 2025 12:29:17 GMT",
+    "summary": "The  Drought notification level is Orange.",
+    "category": "DR2",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Afghanistan, Islamic Republic of Iran, Tajikistan, Turkmenistan",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1017535",
+    "published": "Tue, 28 Jan 2025 13:59:42 GMT",
+    "summary": "The  Drought notification level is Green.",
+    "category": "DR1",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  },
+  {
+    "title": "Drought is on going in Bolivia, Brazil, Peru, Paraguay",
+    "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1016449",
+    "published": "Wed, 06 Sep 2023 12:19:52 GMT",
+    "summary": "The  Drought notification level is Orange.",
+    "category": "DR2",
+    "parsed_at": "2026-04-19T10:41:59.555925"
+  }
+]

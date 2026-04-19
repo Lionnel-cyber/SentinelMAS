@@ -1,0 +1,5632 @@
+[
+  {
+    "event_id": "us6000srab",
+    "magnitude": 4.7,
+    "latitude": 45.1412,
+    "longitude": 151.2608,
+    "depth_km": 10,
+    "place": "266 km E of Kuril\u2019sk, Russia",
+    "time": 1776589400194,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srab"
+  },
+  {
+    "event_id": "us6000sra6",
+    "magnitude": 4.9,
+    "latitude": -21.7318,
+    "longitude": 68.814,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1776586054113,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sra6"
+  },
+  {
+    "event_id": "us6000sr9u",
+    "magnitude": 4.8,
+    "latitude": 34.861,
+    "longitude": 25.8633,
+    "depth_km": 10,
+    "place": "20 km SSE of Ier\u00e1petra, Greece",
+    "time": 1776582278681,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr9u"
+  },
+  {
+    "event_id": "us6000sr9c",
+    "magnitude": 5.2,
+    "latitude": -32.1851,
+    "longitude": -178.2523,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776576916689,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr9c"
+  },
+  {
+    "event_id": "us6000sr8m",
+    "magnitude": 4.5,
+    "latitude": -22.5581,
+    "longitude": -177.9092,
+    "depth_km": 356.065,
+    "place": "south of the Fiji Islands",
+    "time": 1776570033943,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr8m"
+  },
+  {
+    "event_id": "us6000sr8i",
+    "magnitude": 4.9,
+    "latitude": -32.039,
+    "longitude": -177.8862,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776568349997,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr8i"
+  },
+  {
+    "event_id": "us6000sr5z",
+    "magnitude": 5.7,
+    "latitude": 1.2529,
+    "longitude": 97.2066,
+    "depth_km": 18,
+    "place": "45 km W of Gunungsitoli, Indonesia",
+    "time": 1776542811170,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5z"
+  },
+  {
+    "event_id": "us6000sr5w",
+    "magnitude": 4.8,
+    "latitude": -5.5774,
+    "longitude": 146.9923,
+    "depth_km": 173.523,
+    "place": "126 km N of Lae, Papua New Guinea",
+    "time": 1776541612017,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5w"
+  },
+  {
+    "event_id": "us6000sr5n",
+    "magnitude": 5.4,
+    "latitude": -32.4116,
+    "longitude": -178.0587,
+    "depth_km": 11.382,
+    "place": "south of the Kermadec Islands",
+    "time": 1776536998948,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5n"
+  },
+  {
+    "event_id": "us6000sr5m",
+    "magnitude": 4.7,
+    "latitude": 31.5799,
+    "longitude": 50.0323,
+    "depth_km": 10,
+    "place": "52 km NE of R\u0101mhormoz, Iran",
+    "time": 1776536694608,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr5m"
+  },
+  {
+    "event_id": "us6000sr4y",
+    "magnitude": 5.3,
+    "latitude": -32.0646,
+    "longitude": -178.1403,
+    "depth_km": 34.735,
+    "place": "south of the Kermadec Islands",
+    "time": 1776528228162,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr4y"
+  },
+  {
+    "event_id": "us6000sr4k",
+    "magnitude": 5.8,
+    "latitude": -10.6594,
+    "longitude": 161.575,
+    "depth_km": 47.956,
+    "place": "44 km WSW of Kirakira, Solomon Islands",
+    "time": 1776524580197,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr4k"
+  },
+  {
+    "event_id": "us6000sr4f",
+    "magnitude": 4.5,
+    "latitude": 28.3075,
+    "longitude": 103.5102,
+    "depth_km": 10,
+    "place": "83 km WSW of Shuanglong, China",
+    "time": 1776522371865,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr4f"
+  },
+  {
+    "event_id": "us6000sr43",
+    "magnitude": 5,
+    "latitude": 51.42,
+    "longitude": -179.6701,
+    "depth_km": 35,
+    "place": "216 km WSW of Adak, Alaska",
+    "time": 1776518109117,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr43"
+  },
+  {
+    "event_id": "us6000sr3w",
+    "magnitude": 5.2,
+    "latitude": -32.0442,
+    "longitude": -177.9073,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776514586188,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3w"
+  },
+  {
+    "event_id": "us6000sr3x",
+    "magnitude": 4.8,
+    "latitude": -31.9639,
+    "longitude": -178.1147,
+    "depth_km": 10,
+    "place": "Kermadec Islands region",
+    "time": 1776514548541,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3x"
+  },
+  {
+    "event_id": "us6000sr3t",
+    "magnitude": 4.6,
+    "latitude": 15.0254,
+    "longitude": 122.284,
+    "depth_km": 10,
+    "place": "26 km ENE of Karligan, Philippines",
+    "time": 1776513680423,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3t"
+  },
+  {
+    "event_id": "us6000sr3p",
+    "magnitude": 5,
+    "latitude": 0.213,
+    "longitude": 125.7153,
+    "depth_km": 30.56,
+    "place": "144 km E of Modisi, Indonesia",
+    "time": 1776510296276,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3p"
+  },
+  {
+    "event_id": "us6000sr3l",
+    "magnitude": 5.9,
+    "latitude": -32.0876,
+    "longitude": -178.0627,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776509274936,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3l"
+  },
+  {
+    "event_id": "us6000sr3g",
+    "magnitude": 4.6,
+    "latitude": 6.7773,
+    "longitude": -73.089,
+    "depth_km": 162.185,
+    "place": "4 km N of Jord\u00e1n, Colombia",
+    "time": 1776507898972,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3g"
+  },
+  {
+    "event_id": "us6000sr3h",
+    "magnitude": 4.9,
+    "latitude": 0.2372,
+    "longitude": 125.7661,
+    "depth_km": 35,
+    "place": "149 km E of Modisi, Indonesia",
+    "time": 1776507820737,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3h"
+  },
+  {
+    "event_id": "us6000sr3d",
+    "magnitude": 4.8,
+    "latitude": -15.2935,
+    "longitude": -173.153,
+    "depth_km": 10,
+    "place": "100 km NE of Hihifo, Tonga",
+    "time": 1776504721590,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3d"
+  },
+  {
+    "event_id": "us6000sr2q",
+    "magnitude": 4.9,
+    "latitude": 6.4842,
+    "longitude": 60.2475,
+    "depth_km": 10,
+    "place": "Carlsberg Ridge",
+    "time": 1776492275041,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2q"
+  },
+  {
+    "event_id": "us6000sr2n",
+    "magnitude": 5.5,
+    "latitude": 6.409,
+    "longitude": 60.2178,
+    "depth_km": 10,
+    "place": "Carlsberg Ridge",
+    "time": 1776491998199,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2n"
+  },
+  {
+    "event_id": "us6000sr2i",
+    "magnitude": 4.9,
+    "latitude": 36.5388,
+    "longitude": 137.9099,
+    "depth_km": 10,
+    "place": "5 km NE of \u014cmachi, Japan",
+    "time": 1776491670799,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr2i"
+  },
+  {
+    "event_id": "us6000sr27",
+    "magnitude": 5.2,
+    "latitude": 45.7789,
+    "longitude": 151.8949,
+    "depth_km": 35,
+    "place": "Kuril Islands",
+    "time": 1776487212867,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr27"
+  },
+  {
+    "event_id": "us6000sr1y",
+    "magnitude": 4.9,
+    "latitude": 36.5483,
+    "longitude": 137.8494,
+    "depth_km": 10,
+    "place": "5 km NNW of \u014cmachi, Japan",
+    "time": 1776486005328,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr1y"
+  },
+  {
+    "event_id": "us6000sr31",
+    "magnitude": 4.9,
+    "latitude": -31.8112,
+    "longitude": -178.0379,
+    "depth_km": 10,
+    "place": "Kermadec Islands region",
+    "time": 1776485209223,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr31"
+  },
+  {
+    "event_id": "us6000sr1k",
+    "magnitude": 4.5,
+    "latitude": 36.5606,
+    "longitude": 70.9008,
+    "depth_km": 186.074,
+    "place": "34 km S of Jurm, Afghanistan",
+    "time": 1776482172311,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr1k"
+  },
+  {
+    "event_id": "us6000sr1e",
+    "magnitude": 5.3,
+    "latitude": 36.6199,
+    "longitude": 70.7871,
+    "depth_km": 198.753,
+    "place": "27 km S of Jurm, Afghanistan",
+    "time": 1776480860073,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr1e"
+  },
+  {
+    "event_id": "us6000sr16",
+    "magnitude": 4.7,
+    "latitude": 1.2229,
+    "longitude": 126.076,
+    "depth_km": 35,
+    "place": "108 km ESE of Bitung, Indonesia",
+    "time": 1776478473982,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr16"
+  },
+  {
+    "event_id": "us6000sr12",
+    "magnitude": 4.5,
+    "latitude": -21.041,
+    "longitude": -68.2538,
+    "depth_km": 118.068,
+    "place": "20 km N of Ollag\u00fce, Chile",
+    "time": 1776478088409,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr12"
+  },
+  {
+    "event_id": "us6000sr09",
+    "magnitude": 5,
+    "latitude": 45.3903,
+    "longitude": 150.9639,
+    "depth_km": 35,
+    "place": "242 km E of Kuril\u2019sk, Russia",
+    "time": 1776472101763,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr09"
+  },
+  {
+    "event_id": "us6000sqzn",
+    "magnitude": 5.1,
+    "latitude": 1.2073,
+    "longitude": 126.3204,
+    "depth_km": 35,
+    "place": "127 km WNW of Ternate, Indonesia",
+    "time": 1776468577922,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqzn"
+  },
+  {
+    "event_id": "us6000sqzl",
+    "magnitude": 5.1,
+    "latitude": 0.0691,
+    "longitude": 123.7912,
+    "depth_km": 121.035,
+    "place": "83 km WSW of Modisi, Indonesia",
+    "time": 1776468087293,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqzl"
+  },
+  {
+    "event_id": "us6000sqz7",
+    "magnitude": 4.7,
+    "latitude": -6.1878,
+    "longitude": 131.2879,
+    "depth_km": 73.716,
+    "place": "173 km WSW of Tual, Indonesia",
+    "time": 1776464361504,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqz7"
+  },
+  {
+    "event_id": "us6000sqz1",
+    "magnitude": 5.1,
+    "latitude": -5.9581,
+    "longitude": 148.5128,
+    "depth_km": 94.504,
+    "place": "99 km NE of Finschhafen, Papua New Guinea",
+    "time": 1776462390836,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqz1"
+  },
+  {
+    "event_id": "us6000sqta",
+    "magnitude": 5.4,
+    "latitude": 13.1896,
+    "longitude": -44.8124,
+    "depth_km": 10,
+    "place": "northern Mid-Atlantic Ridge",
+    "time": 1776429566641,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqta"
+  },
+  {
+    "event_id": "us6000sqtb",
+    "magnitude": 4.6,
+    "latitude": 50.3189,
+    "longitude": 156.5459,
+    "depth_km": 70.766,
+    "place": "49 km SE of Severo-Kuril\u2019sk, Russia",
+    "time": 1776429432403,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqtb"
+  },
+  {
+    "event_id": "us6000sqrf",
+    "magnitude": 4.7,
+    "latitude": 0.675,
+    "longitude": 126.3137,
+    "depth_km": 32.187,
+    "place": "119 km W of Ternate, Indonesia",
+    "time": 1776421275146,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqrf"
+  },
+  {
+    "event_id": "us6000sqqr",
+    "magnitude": 4.9,
+    "latitude": 9.6524,
+    "longitude": 125.7163,
+    "depth_km": 116.727,
+    "place": "6 km NNE of Gigaquit, Philippines",
+    "time": 1776408436592,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqqr"
+  },
+  {
+    "event_id": "us6000sqqg",
+    "magnitude": 4.9,
+    "latitude": -31.4943,
+    "longitude": -69.242,
+    "depth_km": 112.404,
+    "place": "24 km SE of Calingasta, Argentina",
+    "time": 1776406788260,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqqg"
+  },
+  {
+    "event_id": "us6000sqpv",
+    "magnitude": 4.5,
+    "latitude": -31.5513,
+    "longitude": -66.7778,
+    "depth_km": 130.041,
+    "place": "106 km WNW of Candelaria, Argentina",
+    "time": 1776393514619,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqpv"
+  },
+  {
+    "event_id": "us6000sqpd",
+    "magnitude": 4.7,
+    "latitude": 16.6012,
+    "longitude": -95.798,
+    "depth_km": 57.338,
+    "place": "19 km E of Nejapa de Madero, Mexico",
+    "time": 1776387481935,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqpd"
+  },
+  {
+    "event_id": "us6000sqnw",
+    "magnitude": 4.5,
+    "latitude": -18.6205,
+    "longitude": -175.4086,
+    "depth_km": 219.87,
+    "place": "150 km W of Neiafu, Tonga",
+    "time": 1776382728195,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqnw"
+  },
+  {
+    "event_id": "us6000sqn6",
+    "magnitude": 5.1,
+    "latitude": 0.2141,
+    "longitude": -16.6026,
+    "depth_km": 10,
+    "place": "north of Ascension Island",
+    "time": 1776375985134,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqn6"
+  },
+  {
+    "event_id": "us6000sqml",
+    "magnitude": 5.2,
+    "latitude": 0.0245,
+    "longitude": -16.4939,
+    "depth_km": 10,
+    "place": "north of Ascension Island",
+    "time": 1776371802256,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqml"
+  },
+  {
+    "event_id": "us6000sqme",
+    "magnitude": 4.7,
+    "latitude": -32.3197,
+    "longitude": -178.216,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776369119293,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqme"
+  },
+  {
+    "event_id": "us6000sqli",
+    "magnitude": 4.5,
+    "latitude": -23.4952,
+    "longitude": -179.9118,
+    "depth_km": 550.454,
+    "place": "south of the Fiji Islands",
+    "time": 1776362857663,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqli"
+  },
+  {
+    "event_id": "us6000sqla",
+    "magnitude": 4.8,
+    "latitude": 23.9928,
+    "longitude": 143.079,
+    "depth_km": 10,
+    "place": "Volcano Islands, Japan region",
+    "time": 1776359957054,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqla"
+  },
+  {
+    "event_id": "us6000sqk6",
+    "magnitude": 4.7,
+    "latitude": -45.8129,
+    "longitude": -76.2235,
+    "depth_km": 10,
+    "place": "268 km W of Puerto Chacabuco, Chile",
+    "time": 1776358312781,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqk6"
+  },
+  {
+    "event_id": "us6000sqjk",
+    "magnitude": 5,
+    "latitude": 33.4772,
+    "longitude": 142.225,
+    "depth_km": 66.763,
+    "place": "255 km SE of Katsuura, Japan",
+    "time": 1776350595391,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqjk"
+  },
+  {
+    "event_id": "us6000sqjb",
+    "magnitude": 6,
+    "latitude": -32.2098,
+    "longitude": -178.0541,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776346201088,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqjb"
+  },
+  {
+    "event_id": "us6000sqj4",
+    "magnitude": 4.8,
+    "latitude": -32.1302,
+    "longitude": -178.1517,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1776343210403,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqj4"
+  },
+  {
+    "event_id": "us6000sqid",
+    "magnitude": 4.7,
+    "latitude": -24.2004,
+    "longitude": -67.3302,
+    "depth_km": 192.947,
+    "place": "102 km W of San Antonio de los Cobres, Argentina",
+    "time": 1776329479222,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqid"
+  },
+  {
+    "event_id": "us6000sqib",
+    "magnitude": 5.2,
+    "latitude": -14.6589,
+    "longitude": -76.767,
+    "depth_km": 10,
+    "place": "102 km SSW of Paracas, Peru",
+    "time": 1776326942443,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqib"
+  },
+  {
+    "event_id": "us6000sqhl",
+    "magnitude": 4.9,
+    "latitude": -10.7563,
+    "longitude": 161.9355,
+    "depth_km": 50.768,
+    "place": "33 km S of Kirakira, Solomon Islands",
+    "time": 1776320804404,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqhl"
+  },
+  {
+    "event_id": "us6000sqhk",
+    "magnitude": 4.6,
+    "latitude": -6.4014,
+    "longitude": -76.9169,
+    "depth_km": 124.148,
+    "place": "26 km WSW of Tabalosos, Peru",
+    "time": 1776320331120,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqhk"
+  },
+  {
+    "event_id": "us6000sqh2",
+    "magnitude": 5,
+    "latitude": -7.0963,
+    "longitude": 150.4314,
+    "depth_km": 10,
+    "place": "138 km SE of Kandrian, Papua New Guinea",
+    "time": 1776315690716,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqh2"
+  },
+  {
+    "event_id": "us6000sqfi",
+    "magnitude": 4.6,
+    "latitude": 21.9039,
+    "longitude": 145.7492,
+    "depth_km": 10,
+    "place": "Mariana Islands region",
+    "time": 1776295171122,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqfi"
+  },
+  {
+    "event_id": "us6000sqbr",
+    "magnitude": 4.7,
+    "latitude": -20.4537,
+    "longitude": -177.9157,
+    "depth_km": 545.718,
+    "place": "283 km WNW of Houma, Tonga",
+    "time": 1776272958290,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqbr"
+  },
+  {
+    "event_id": "us6000sq6d",
+    "magnitude": 5.4,
+    "latitude": -21.3603,
+    "longitude": 170.3357,
+    "depth_km": 166.688,
+    "place": "229 km SSE of Isangel, Vanuatu",
+    "time": 1776239981365,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq6d"
+  },
+  {
+    "event_id": "us6000sq66",
+    "magnitude": 4.9,
+    "latitude": -11.4964,
+    "longitude": 163.1794,
+    "depth_km": 10,
+    "place": "179 km SE of Kirakira, Solomon Islands",
+    "time": 1776238076531,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq66"
+  },
+  {
+    "event_id": "us6000sq5z",
+    "magnitude": 5.7,
+    "latitude": 9.9151,
+    "longitude": -86.3803,
+    "depth_km": 20,
+    "place": "72 km SW of Tamarindo, Costa Rica",
+    "time": 1776236162781,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq5z"
+  },
+  {
+    "event_id": "us6000sq4t",
+    "magnitude": 5,
+    "latitude": -51.7032,
+    "longitude": -75.4046,
+    "depth_km": 36.578,
+    "place": "200 km W of Puerto Natales, Chile",
+    "time": 1776220705666,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq4t"
+  },
+  {
+    "event_id": "us6000sq4s",
+    "magnitude": 4.9,
+    "latitude": -6.975,
+    "longitude": 117.0899,
+    "depth_km": 500.319,
+    "place": "164 km NNW of Pototano, Indonesia",
+    "time": 1776219040864,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq4s"
+  },
+  {
+    "event_id": "us6000sq0w",
+    "magnitude": 4.6,
+    "latitude": -18.4259,
+    "longitude": -175.4283,
+    "depth_km": 219.908,
+    "place": "154 km W of Neiafu, Tonga",
+    "time": 1776184643569,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq0w"
+  },
+  {
+    "event_id": "us6000sq0l",
+    "magnitude": 4.6,
+    "latitude": -6.1084,
+    "longitude": 148.9806,
+    "depth_km": 63.779,
+    "place": "63 km W of Kandrian, Papua New Guinea",
+    "time": 1776181894416,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq0l"
+  },
+  {
+    "event_id": "us6000spzb",
+    "magnitude": 4.7,
+    "latitude": 52.0961,
+    "longitude": 175.0556,
+    "depth_km": 61.702,
+    "place": "152 km SE of Attu Station, Alaska",
+    "time": 1776170745688,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spzb"
+  },
+  {
+    "event_id": "us6000spza",
+    "magnitude": 4.5,
+    "latitude": -9.012,
+    "longitude": 124.0381,
+    "depth_km": 89.647,
+    "place": "43 km WNW of Pante Makasar, Timor Leste",
+    "time": 1776170651327,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spza"
+  },
+  {
+    "event_id": "us6000spyx",
+    "magnitude": 4.5,
+    "latitude": 44.4027,
+    "longitude": 149.1801,
+    "depth_km": 35,
+    "place": "137 km SE of Kuril\u2019sk, Russia",
+    "time": 1776166519115,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spyx"
+  },
+  {
+    "event_id": "us6000spyf",
+    "magnitude": 4.5,
+    "latitude": -33.5338,
+    "longitude": 148.7478,
+    "depth_km": 10,
+    "place": "8 km ENE of Canowindra, Australia",
+    "time": 1776161993534,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spyf"
+  },
+  {
+    "event_id": "us6000spye",
+    "magnitude": 5.7,
+    "latitude": -49.3093,
+    "longitude": 30.3996,
+    "depth_km": 10,
+    "place": "south of Africa",
+    "time": 1776161596728,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spye"
+  },
+  {
+    "event_id": "us6000spxi",
+    "magnitude": 4.7,
+    "latitude": 1.1242,
+    "longitude": 126.2772,
+    "depth_km": 40.76,
+    "place": "128 km WNW of Ternate, Indonesia",
+    "time": 1776154240187,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spxi"
+  },
+  {
+    "event_id": "us6000spva",
+    "magnitude": 5.5,
+    "latitude": 18.9342,
+    "longitude": 145.4987,
+    "depth_km": 219.991,
+    "place": "Pagan region, Northern Mariana Islands",
+    "time": 1776135861202,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spva"
+  },
+  {
+    "event_id": "us6000spv5",
+    "magnitude": 4.7,
+    "latitude": 49.7265,
+    "longitude": 155.7663,
+    "depth_km": 63.67,
+    "place": "108 km SSW of Severo-Kuril\u2019sk, Russia",
+    "time": 1776135108436,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spv5"
+  },
+  {
+    "event_id": "nn00914068",
+    "magnitude": 5.68,
+    "latitude": 39.3345,
+    "longitude": -119.0075,
+    "depth_km": 5,
+    "place": "20 km ESE of Silver Springs, Nevada",
+    "time": 1776130152123,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068"
+  },
+  {
+    "event_id": "us6000sprj",
+    "magnitude": 4.6,
+    "latitude": -0.1184,
+    "longitude": 125.6889,
+    "depth_km": 35,
+    "place": "152 km ESE of Modisi, Indonesia",
+    "time": 1776106462479,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sprj"
+  },
+  {
+    "event_id": "us6000sprh",
+    "magnitude": 4.5,
+    "latitude": 51.5399,
+    "longitude": 159.4848,
+    "depth_km": 55.109,
+    "place": "171 km SSE of Vilyuchinsk, Russia",
+    "time": 1776105380766,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sprh"
+  },
+  {
+    "event_id": "us6000spmf",
+    "magnitude": 4.7,
+    "latitude": 0.9933,
+    "longitude": 126.3581,
+    "depth_km": 31.113,
+    "place": "116 km W of Ternate, Indonesia",
+    "time": 1776085019885,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spmf"
+  },
+  {
+    "event_id": "us6000splu",
+    "magnitude": 4.5,
+    "latitude": 29.7974,
+    "longitude": 105.2952,
+    "depth_km": 10,
+    "place": "20 km NNW of Wujia, China",
+    "time": 1776069590000,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000splu"
+  },
+  {
+    "event_id": "us6000sple",
+    "magnitude": 4.9,
+    "latitude": 1.4988,
+    "longitude": 126.3683,
+    "depth_km": 44.942,
+    "place": "137 km NW of Ternate, Indonesia",
+    "time": 1776063583987,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sple"
+  },
+  {
+    "event_id": "us6000splc",
+    "magnitude": 5.2,
+    "latitude": 1.0241,
+    "longitude": 126.6223,
+    "depth_km": 55.253,
+    "place": "88 km WNW of Ternate, Indonesia",
+    "time": 1776061402828,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000splc"
+  },
+  {
+    "event_id": "us6000spl2",
+    "magnitude": 5,
+    "latitude": 1.0367,
+    "longitude": 126.4706,
+    "depth_km": 43.741,
+    "place": "105 km WNW of Ternate, Indonesia",
+    "time": 1776061299975,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spl2"
+  },
+  {
+    "event_id": "us6000spkw",
+    "magnitude": 4.7,
+    "latitude": 35.984,
+    "longitude": 30.2713,
+    "depth_km": 10,
+    "place": "36 km SSE of Finike, Turkey",
+    "time": 1776059314499,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spkw"
+  },
+  {
+    "event_id": "us6000spka",
+    "magnitude": 5.3,
+    "latitude": -5.1908,
+    "longitude": 153.593,
+    "depth_km": 68.012,
+    "place": "174 km ESE of Kokopo, Papua New Guinea",
+    "time": 1776048961421,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spka"
+  },
+  {
+    "event_id": "us6000spk9",
+    "magnitude": 5.5,
+    "latitude": -18.4052,
+    "longitude": -175.4263,
+    "depth_km": 254.575,
+    "place": "154 km W of Neiafu, Tonga",
+    "time": 1776046501108,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spk9"
+  },
+  {
+    "event_id": "us6000spk4",
+    "magnitude": 4.5,
+    "latitude": 6.1481,
+    "longitude": -72.1083,
+    "depth_km": 16.15,
+    "place": "16 km ENE of S\u00e1cama, Colombia",
+    "time": 1776044337890,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spk4"
+  },
+  {
+    "event_id": "us6000spjr",
+    "magnitude": 4.6,
+    "latitude": -11.7759,
+    "longitude": 163.5376,
+    "depth_km": 10,
+    "place": "229 km SE of Kirakira, Solomon Islands",
+    "time": 1776030519034,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spjr"
+  },
+  {
+    "event_id": "us6000spjl",
+    "magnitude": 4.6,
+    "latitude": 6.3,
+    "longitude": -72.5353,
+    "depth_km": 10,
+    "place": "3 km SE of La Uvita, Colombia",
+    "time": 1776027637515,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spjl"
+  },
+  {
+    "event_id": "us6000spjf",
+    "magnitude": 4.6,
+    "latitude": 50.8756,
+    "longitude": -172.817,
+    "depth_km": 10,
+    "place": "175 km SSE of Atka, Alaska",
+    "time": 1776026477435,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spjf"
+  },
+  {
+    "event_id": "us6000spjb",
+    "magnitude": 5.1,
+    "latitude": 54.1877,
+    "longitude": -162.3868,
+    "depth_km": 35,
+    "place": "97 km S of King Cove, Alaska",
+    "time": 1776024850340,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spjb"
+  },
+  {
+    "event_id": "us6000spja",
+    "magnitude": 4.8,
+    "latitude": -11.5575,
+    "longitude": 163.2681,
+    "depth_km": 10,
+    "place": "191 km SE of Kirakira, Solomon Islands",
+    "time": 1776024418057,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spja"
+  },
+  {
+    "event_id": "us6000spj7",
+    "magnitude": 5,
+    "latitude": 49.7449,
+    "longitude": 155.7719,
+    "depth_km": 10,
+    "place": "106 km SSW of Severo-Kuril\u2019sk, Russia",
+    "time": 1776024306816,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spj7"
+  },
+  {
+    "event_id": "us6000spj5",
+    "magnitude": 4.5,
+    "latitude": 13.9055,
+    "longitude": 145.6443,
+    "depth_km": 100.096,
+    "place": "91 km ENE of Yigo Village, Guam",
+    "time": 1776023031602,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spj5"
+  },
+  {
+    "event_id": "us6000spiw",
+    "magnitude": 4.6,
+    "latitude": 38.5876,
+    "longitude": 49.5691,
+    "depth_km": 10,
+    "place": "62 km ENE of Astara, Azerbaijan",
+    "time": 1776019560539,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spiw"
+  },
+  {
+    "event_id": "us6000spi4",
+    "magnitude": 4.5,
+    "latitude": -18.1427,
+    "longitude": -177.8517,
+    "depth_km": 624.652,
+    "place": "299 km E of Levuka, Fiji",
+    "time": 1776007982084,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spi4"
+  },
+  {
+    "event_id": "us6000sphk",
+    "magnitude": 4.6,
+    "latitude": 38.3039,
+    "longitude": 141.7728,
+    "depth_km": 60.331,
+    "place": "32 km ESE of Onagawa Ch\u014d, Japan",
+    "time": 1775998843320,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sphk"
+  },
+  {
+    "event_id": "us6000sph9",
+    "magnitude": 4.8,
+    "latitude": 5.9503,
+    "longitude": -78.7398,
+    "depth_km": 10,
+    "place": "150 km WSW of Bah\u00eda Solano, Colombia",
+    "time": 1775994618300,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sph9"
+  },
+  {
+    "event_id": "us6000spea",
+    "magnitude": 5.2,
+    "latitude": 1.9632,
+    "longitude": 94.7702,
+    "depth_km": 10,
+    "place": "187 km WSW of Sinabang, Indonesia",
+    "time": 1775961636099,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spea"
+  },
+  {
+    "event_id": "us6000spe2",
+    "magnitude": 5,
+    "latitude": 18.5002,
+    "longitude": 145.5867,
+    "depth_km": 226.005,
+    "place": "Pagan region, Northern Mariana Islands",
+    "time": 1775956182258,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spe2"
+  },
+  {
+    "event_id": "us6000spdm",
+    "magnitude": 4.6,
+    "latitude": 33.0866,
+    "longitude": 76.2361,
+    "depth_km": 10,
+    "place": "49 km ENE of Bhadarw\u0101h, India",
+    "time": 1775947947220,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spdm"
+  },
+  {
+    "event_id": "us6000spdd",
+    "magnitude": 4.5,
+    "latitude": 26.1139,
+    "longitude": 99.8194,
+    "depth_km": 10,
+    "place": "13 km W of Zibihu, China",
+    "time": 1775942510332,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spdd"
+  },
+  {
+    "event_id": "us6000spb7",
+    "magnitude": 4.7,
+    "latitude": 39.1996,
+    "longitude": 29.0137,
+    "depth_km": 10,
+    "place": "12 km NNE of Simav, Turkey",
+    "time": 1775917916448,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
+  },
+  {
+    "event_id": "us6000spaz",
+    "magnitude": 4.8,
+    "latitude": -4.4971,
+    "longitude": -80.76,
+    "depth_km": 50.063,
+    "place": "30 km SSE of La Breita, Peru",
+    "time": 1775915051786,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spaz"
+  },
+  {
+    "event_id": "us6000spac",
+    "magnitude": 5.4,
+    "latitude": 41.808,
+    "longitude": 146.4358,
+    "depth_km": 10,
+    "place": "182 km SSE of Nemuro, Japan",
+    "time": 1775900991545,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spac"
+  },
+  {
+    "event_id": "us6000spa1",
+    "magnitude": 4.5,
+    "latitude": 29.949,
+    "longitude": 50.7755,
+    "depth_km": 10,
+    "place": "45 km S of Dogonbadan, Iran",
+    "time": 1775896894959,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spa1"
+  },
+  {
+    "event_id": "us6000sp9d",
+    "magnitude": 4.5,
+    "latitude": 29.7492,
+    "longitude": 104.9352,
+    "depth_km": 10,
+    "place": "8 km ESE of Chonglong, China",
+    "time": 1775882284718,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp9d"
+  },
+  {
+    "event_id": "us6000sp95",
+    "magnitude": 4.5,
+    "latitude": 19.4406,
+    "longitude": 77.2011,
+    "depth_km": 10,
+    "place": "13 km NNE of Basmat, India",
+    "time": 1775877324204,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp95"
+  },
+  {
+    "event_id": "us6000sp8g",
+    "magnitude": 4.7,
+    "latitude": 52.0071,
+    "longitude": -171.6316,
+    "depth_km": 53.848,
+    "place": "177 km E of Atka, Alaska",
+    "time": 1775867993370,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp8g"
+  },
+  {
+    "event_id": "us6000sp6w",
+    "magnitude": 4.6,
+    "latitude": -0.6236,
+    "longitude": 129.7401,
+    "depth_km": 10,
+    "place": "95 km WSW of Waisai, Indonesia",
+    "time": 1775851203550,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp6w"
+  },
+  {
+    "event_id": "us6000sp6p",
+    "magnitude": 4.5,
+    "latitude": -23.4022,
+    "longitude": -179.8694,
+    "depth_km": 538.158,
+    "place": "south of the Fiji Islands",
+    "time": 1775849484393,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp6p"
+  },
+  {
+    "event_id": "us6000sp6d",
+    "magnitude": 4.6,
+    "latitude": 2.3103,
+    "longitude": 128.1832,
+    "depth_km": 156.992,
+    "place": "67 km NNE of Tobelo, Indonesia",
+    "time": 1775848135907,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp6d"
+  },
+  {
+    "event_id": "us6000sp5k",
+    "magnitude": 4.5,
+    "latitude": 51.4026,
+    "longitude": 159.4863,
+    "depth_km": 24.743,
+    "place": "185 km SSE of Vilyuchinsk, Russia",
+    "time": 1775836267886,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp5k"
+  },
+  {
+    "event_id": "us6000sp0a",
+    "magnitude": 4.6,
+    "latitude": -1.8675,
+    "longitude": -77.8537,
+    "depth_km": 164.563,
+    "place": "22 km SE of Palora, Ecuador",
+    "time": 1775830531530,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp0a"
+  },
+  {
+    "event_id": "us6000spl9",
+    "magnitude": 4.5,
+    "latitude": -6.3408,
+    "longitude": 153.7154,
+    "depth_km": 10,
+    "place": "195 km W of Panguna, Papua New Guinea",
+    "time": 1775828598950,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spl9"
+  },
+  {
+    "event_id": "us6000snyh",
+    "magnitude": 4.7,
+    "latitude": 5.111,
+    "longitude": 132.6162,
+    "depth_km": 55.027,
+    "place": "50 km ESE of Sonsorol Village, Palau",
+    "time": 1775826936908,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snyh"
+  },
+  {
+    "event_id": "us6000snxe",
+    "magnitude": 4.9,
+    "latitude": 54.1868,
+    "longitude": -162.6172,
+    "depth_km": 34.348,
+    "place": "90 km SE of False Pass, Alaska",
+    "time": 1775825412044,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snxe"
+  },
+  {
+    "event_id": "us6000snxb",
+    "magnitude": 5,
+    "latitude": -31.9392,
+    "longitude": -178.0211,
+    "depth_km": 10,
+    "place": "Kermadec Islands region",
+    "time": 1775822923066,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snxb"
+  },
+  {
+    "event_id": "us6000snwt",
+    "magnitude": 5.1,
+    "latitude": -3.3432,
+    "longitude": 102.382,
+    "depth_km": 107.404,
+    "place": "20 km NW of Curup, Indonesia",
+    "time": 1775819333559,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt"
+  },
+  {
+    "event_id": "us6000snw6",
+    "magnitude": 4.9,
+    "latitude": -29.3883,
+    "longitude": -177.0968,
+    "depth_km": 46.113,
+    "place": "Kermadec Islands, New Zealand",
+    "time": 1775809033268,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snw6"
+  },
+  {
+    "event_id": "us6000sra0",
+    "magnitude": 5.1,
+    "latitude": -49.7113,
+    "longitude": 114.0071,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1775795134021,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sra0"
+  },
+  {
+    "event_id": "us6000snv9",
+    "magnitude": 4.5,
+    "latitude": 53.0309,
+    "longitude": -35.1303,
+    "depth_km": 10,
+    "place": "Reykjanes Ridge",
+    "time": 1775791327135,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snv9"
+  },
+  {
+    "event_id": "us6000snuv",
+    "magnitude": 4.6,
+    "latitude": 30.7991,
+    "longitude": 141.9062,
+    "depth_km": 29.766,
+    "place": "Izu Islands, Japan region",
+    "time": 1775787871120,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snuv"
+  },
+  {
+    "event_id": "us6000snui",
+    "magnitude": 4.6,
+    "latitude": 31.4866,
+    "longitude": 49.9197,
+    "depth_km": 10,
+    "place": "37 km NE of R\u0101mhormoz, Iran",
+    "time": 1775782573741,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snui"
+  },
+  {
+    "event_id": "us6000snu9",
+    "magnitude": 4.5,
+    "latitude": -12.71,
+    "longitude": -76.289,
+    "depth_km": 61.2,
+    "place": "19 km E of Coayllo, Peru",
+    "time": 1775779068436,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snu9"
+  },
+  {
+    "event_id": "us6000snu7",
+    "magnitude": 4.5,
+    "latitude": 11.8925,
+    "longitude": 143.6958,
+    "depth_km": 10,
+    "place": "185 km SW of Merizo Village, Guam",
+    "time": 1775777195159,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snu7"
+  },
+  {
+    "event_id": "us6000sntx",
+    "magnitude": 4.7,
+    "latitude": 42.4348,
+    "longitude": 84.6714,
+    "depth_km": 10,
+    "place": "138 km WSW of Baluntaicun, China",
+    "time": 1775773520837,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sntx"
+  },
+  {
+    "event_id": "us6000sntm",
+    "magnitude": 5.2,
+    "latitude": -60.9923,
+    "longitude": -56.2015,
+    "depth_km": 10,
+    "place": "South Shetland Islands",
+    "time": 1775771960634,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sntm"
+  },
+  {
+    "event_id": "us6000snrr",
+    "magnitude": 4.9,
+    "latitude": -20.5215,
+    "longitude": -178.1986,
+    "depth_km": 535.946,
+    "place": "Fiji region",
+    "time": 1775767360766,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snrr"
+  },
+  {
+    "event_id": "us6000snrf",
+    "magnitude": 4.5,
+    "latitude": -4.9413,
+    "longitude": 144.25,
+    "depth_km": 105.96,
+    "place": "84 km NE of Wabag, Papua New Guinea",
+    "time": 1775766002610,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snrf"
+  },
+  {
+    "event_id": "us6000snqs",
+    "magnitude": 5.1,
+    "latitude": 30.8731,
+    "longitude": 141.9379,
+    "depth_km": 10,
+    "place": "Izu Islands, Japan region",
+    "time": 1775760864963,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snqs"
+  },
+  {
+    "event_id": "us6000snpx",
+    "magnitude": 4.9,
+    "latitude": 22.4034,
+    "longitude": 145.0438,
+    "depth_km": 22.087,
+    "place": "Volcano Islands, Japan region",
+    "time": 1775749795785,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snpx"
+  },
+  {
+    "event_id": "us6000snpr",
+    "magnitude": 4.9,
+    "latitude": 11.751,
+    "longitude": 143.785,
+    "depth_km": 50.738,
+    "place": "193 km SSW of Merizo Village, Guam",
+    "time": 1775748313282,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snpr"
+  },
+  {
+    "event_id": "us6000snpm",
+    "magnitude": 4.7,
+    "latitude": 6.1968,
+    "longitude": 125.9827,
+    "depth_km": 78.874,
+    "place": "27 km SW of Surup, Philippines",
+    "time": 1775747251432,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snpm"
+  },
+  {
+    "event_id": "us6000snmv",
+    "magnitude": 5,
+    "latitude": -2.9259,
+    "longitude": 136.2785,
+    "depth_km": 10,
+    "place": "98 km ENE of Nabire, Indonesia",
+    "time": 1775719941033,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snmv"
+  },
+  {
+    "event_id": "us6000sqvz",
+    "magnitude": 4.7,
+    "latitude": 9.9922,
+    "longitude": 144.836,
+    "depth_km": 10,
+    "place": "State of Yap, Federated States of Micronesia",
+    "time": 1775713063057,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqvz"
+  },
+  {
+    "event_id": "us6000snmg",
+    "magnitude": 5,
+    "latitude": 9.7919,
+    "longitude": 145.7422,
+    "depth_km": 10,
+    "place": "State of Yap, Federated States of Micronesia",
+    "time": 1775712900767,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snmg"
+  },
+  {
+    "event_id": "us6000snlq",
+    "magnitude": 4.7,
+    "latitude": 25.1804,
+    "longitude": 125.3016,
+    "depth_km": 10,
+    "place": "41 km N of Hirara, Japan",
+    "time": 1775698465998,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snlq"
+  },
+  {
+    "event_id": "us6000snli",
+    "magnitude": 4.9,
+    "latitude": -25.5637,
+    "longitude": -178.5445,
+    "depth_km": 336.143,
+    "place": "south of the Fiji Islands",
+    "time": 1775693761664,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snli"
+  },
+  {
+    "event_id": "us6000snlc",
+    "magnitude": 4.8,
+    "latitude": 53.3923,
+    "longitude": -35.3205,
+    "depth_km": 10,
+    "place": "Reykjanes Ridge",
+    "time": 1775690584196,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snlc"
+  },
+  {
+    "event_id": "us6000snkz",
+    "magnitude": 4.6,
+    "latitude": 10.4817,
+    "longitude": 93.7061,
+    "depth_km": 10,
+    "place": "167 km SE of Port Blair, India",
+    "time": 1775686431402,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkz"
+  },
+  {
+    "event_id": "us6000snkm",
+    "magnitude": 4.5,
+    "latitude": 52.934,
+    "longitude": -35.2061,
+    "depth_km": 10,
+    "place": "Reykjanes Ridge",
+    "time": 1775683749128,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snkm"
+  },
+  {
+    "event_id": "us6000snjj",
+    "magnitude": 4.6,
+    "latitude": 1.0797,
+    "longitude": 126.2439,
+    "depth_km": 35,
+    "place": "130 km ESE of Bitung, Indonesia",
+    "time": 1775675684547,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snjj"
+  },
+  {
+    "event_id": "us6000snj3",
+    "magnitude": 4.5,
+    "latitude": 54.9978,
+    "longitude": -165.7699,
+    "depth_km": 187.776,
+    "place": "96 km N of Akutan, Alaska",
+    "time": 1775671841096,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snj3"
+  },
+  {
+    "event_id": "us7000sbbx",
+    "magnitude": 4.8,
+    "latitude": -8.5427,
+    "longitude": 123.1182,
+    "depth_km": 10,
+    "place": "100 km E of Maumere, Indonesia",
+    "time": 1775665066753,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbbx"
+  },
+  {
+    "event_id": "us7000sbbr",
+    "magnitude": 5,
+    "latitude": -49.5019,
+    "longitude": 125.5556,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1775661240959,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbbr"
+  },
+  {
+    "event_id": "us7000sbbp",
+    "magnitude": 4.8,
+    "latitude": 23.7562,
+    "longitude": -45.9032,
+    "depth_km": 10,
+    "place": "northern Mid-Atlantic Ridge",
+    "time": 1775660159074,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbbp"
+  },
+  {
+    "event_id": "us7000sbb9",
+    "magnitude": 4.8,
+    "latitude": 35.7278,
+    "longitude": 22.2132,
+    "depth_km": 10,
+    "place": "84 km SW of K\u00fdthira, Greece",
+    "time": 1775648098032,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbb9"
+  },
+  {
+    "event_id": "us7000sbau",
+    "magnitude": 5.6,
+    "latitude": 38.8483,
+    "longitude": 49.6061,
+    "depth_km": 21,
+    "place": "63 km SSE of Sovetabad, Azerbaijan",
+    "time": 1775639138970,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbau"
+  },
+  {
+    "event_id": "us7000sbap",
+    "magnitude": 5,
+    "latitude": -11.273,
+    "longitude": 162.9599,
+    "depth_km": 10,
+    "place": "145 km SE of Kirakira, Solomon Islands",
+    "time": 1775637196977,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbap"
+  },
+  {
+    "event_id": "us7000sba8",
+    "magnitude": 4.7,
+    "latitude": 28.8971,
+    "longitude": 142.3651,
+    "depth_km": 10,
+    "place": "Bonin Islands, Japan region",
+    "time": 1775630927047,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sba8"
+  },
+  {
+    "event_id": "us6000sqtz",
+    "magnitude": 4.6,
+    "latitude": -24.4889,
+    "longitude": -176.3481,
+    "depth_km": 112.225,
+    "place": "south of the Fiji Islands",
+    "time": 1775616968818,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqtz"
+  },
+  {
+    "event_id": "us7000sb8q",
+    "magnitude": 5.1,
+    "latitude": -21.4657,
+    "longitude": 168.8373,
+    "depth_km": 10,
+    "place": "99 km E of Tadine, New Caledonia",
+    "time": 1775607087976,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb8q"
+  },
+  {
+    "event_id": "us7000sb7k",
+    "magnitude": 4.7,
+    "latitude": 25.9617,
+    "longitude": 128.5094,
+    "depth_km": 10,
+    "place": "75 km ESE of Katsuren-haebaru, Japan",
+    "time": 1775593717440,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb7k"
+  },
+  {
+    "event_id": "us7000sba3",
+    "magnitude": 4.7,
+    "latitude": 26.2685,
+    "longitude": 128.9458,
+    "depth_km": 10,
+    "place": "88 km ESE of Taira, Japan",
+    "time": 1775584997990,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sba3"
+  },
+  {
+    "event_id": "us7000sb51",
+    "magnitude": 4.6,
+    "latitude": 41.7819,
+    "longitude": 144.1764,
+    "depth_km": 49.647,
+    "place": "91 km SE of Hiroo, Japan",
+    "time": 1775579781858,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb51"
+  },
+  {
+    "event_id": "us6000sn9q",
+    "magnitude": 4.5,
+    "latitude": 46.0795,
+    "longitude": 93.9242,
+    "depth_km": 10,
+    "place": "182 km W of Altai, Mongolia",
+    "time": 1775578046507,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn9q"
+  },
+  {
+    "event_id": "us6000sn8k",
+    "magnitude": 4.6,
+    "latitude": 19.1048,
+    "longitude": -101.9839,
+    "depth_km": 114.29,
+    "place": "6 km SSW of Santa Casilda, Mexico",
+    "time": 1775574811992,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn8k"
+  },
+  {
+    "event_id": "us6000sn81",
+    "magnitude": 5,
+    "latitude": -6.1919,
+    "longitude": 103.7635,
+    "depth_km": 30.783,
+    "place": "186 km WSW of Bandar Lampung, Indonesia",
+    "time": 1775569215182,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn81"
+  },
+  {
+    "event_id": "us6000sn7q",
+    "magnitude": 4.8,
+    "latitude": -32.1337,
+    "longitude": -178.1687,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775566213684,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn7q"
+  },
+  {
+    "event_id": "us6000sn72",
+    "magnitude": 5.2,
+    "latitude": -55.1335,
+    "longitude": -128.4399,
+    "depth_km": 10,
+    "place": "Pacific-Antarctic Ridge",
+    "time": 1775552864598,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn72"
+  },
+  {
+    "event_id": "us6000sn6y",
+    "magnitude": 4.9,
+    "latitude": 24.8988,
+    "longitude": 92.7216,
+    "depth_km": 10,
+    "place": "11 km NW of Silchar, India",
+    "time": 1775551708686,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn6y"
+  },
+  {
+    "event_id": "us6000sn6t",
+    "magnitude": 4.5,
+    "latitude": 6.435,
+    "longitude": 125.5092,
+    "depth_km": 191.184,
+    "place": "5 km SW of Pangian, Philippines",
+    "time": 1775548316017,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn6t"
+  },
+  {
+    "event_id": "us6000sn67",
+    "magnitude": 4.6,
+    "latitude": -18.5218,
+    "longitude": -175.5542,
+    "depth_km": 204.214,
+    "place": "166 km W of Neiafu, Tonga",
+    "time": 1775541315878,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn67"
+  },
+  {
+    "event_id": "us6000sn5m",
+    "magnitude": 4.8,
+    "latitude": 1.0699,
+    "longitude": 126.2083,
+    "depth_km": 46.569,
+    "place": "126 km ESE of Bitung, Indonesia",
+    "time": 1775533389280,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn5m"
+  },
+  {
+    "event_id": "us6000snvv",
+    "magnitude": 4.8,
+    "latitude": -12.8044,
+    "longitude": 166.572,
+    "depth_km": 52.534,
+    "place": "159 km NW of Sola, Vanuatu",
+    "time": 1775528335422,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snvv"
+  },
+  {
+    "event_id": "us6000sn4m",
+    "magnitude": 4.7,
+    "latitude": -41.3167,
+    "longitude": -86.8876,
+    "depth_km": 10,
+    "place": "West Chile Rise",
+    "time": 1775519915757,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn4m"
+  },
+  {
+    "event_id": "us6000sqkw",
+    "magnitude": 4.6,
+    "latitude": 22.7176,
+    "longitude": 144.6394,
+    "depth_km": 10,
+    "place": "Volcano Islands, Japan region",
+    "time": 1775510473506,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqkw"
+  },
+  {
+    "event_id": "us6000sn3u",
+    "magnitude": 4.6,
+    "latitude": 52.3327,
+    "longitude": 160.8538,
+    "depth_km": 10,
+    "place": "171 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1775508763409,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn3u"
+  },
+  {
+    "event_id": "us6000sqku",
+    "magnitude": 4.5,
+    "latitude": -32.0719,
+    "longitude": -178.0776,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775507595158,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqku"
+  },
+  {
+    "event_id": "us6000sn17",
+    "magnitude": 4.6,
+    "latitude": 29.6412,
+    "longitude": 131.5275,
+    "depth_km": 10,
+    "place": "116 km SE of Koshima, Japan",
+    "time": 1775481291680,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn17"
+  },
+  {
+    "event_id": "us6000sn15",
+    "magnitude": 4.9,
+    "latitude": -56.9079,
+    "longitude": -30.3693,
+    "depth_km": 10,
+    "place": "South Sandwich Islands region",
+    "time": 1775480969354,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn15"
+  },
+  {
+    "event_id": "us6000sn11",
+    "magnitude": 5.9,
+    "latitude": -54.994,
+    "longitude": -129.111,
+    "depth_km": 10,
+    "place": "Pacific-Antarctic Ridge",
+    "time": 1775474317401,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn11"
+  },
+  {
+    "event_id": "us6000sn0g",
+    "magnitude": 4.8,
+    "latitude": -4.6189,
+    "longitude": 153.6284,
+    "depth_km": 109.911,
+    "place": "153 km ESE of Kokopo, Papua New Guinea",
+    "time": 1775464069004,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn0g"
+  },
+  {
+    "event_id": "us6000sn0f",
+    "magnitude": 4.7,
+    "latitude": 1.1734,
+    "longitude": 126.4276,
+    "depth_km": 35,
+    "place": "114 km WNW of Ternate, Indonesia",
+    "time": 1775463712585,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn0f"
+  },
+  {
+    "event_id": "us6000sn0b",
+    "magnitude": 4.5,
+    "latitude": -15.1395,
+    "longitude": 167.642,
+    "depth_km": 162.925,
+    "place": "62 km E of Port-Olry, Vanuatu",
+    "time": 1775463592123,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn0b"
+  },
+  {
+    "event_id": "us6000sn00",
+    "magnitude": 5.2,
+    "latitude": 10.8435,
+    "longitude": 123.8752,
+    "depth_km": 10,
+    "place": "0 km S of Tabonok, Philippines",
+    "time": 1775460162142,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sn00"
+  },
+  {
+    "event_id": "us6000smzy",
+    "magnitude": 4.9,
+    "latitude": 31.7549,
+    "longitude": 135.8854,
+    "depth_km": 10,
+    "place": "190 km S of Kushimoto, Japan",
+    "time": 1775457910543,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smzy"
+  },
+  {
+    "event_id": "us6000smzu",
+    "magnitude": 5.2,
+    "latitude": -32.0443,
+    "longitude": -177.9761,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775456125459,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smzu"
+  },
+  {
+    "event_id": "us6000smzl",
+    "magnitude": 4.9,
+    "latitude": 1.5073,
+    "longitude": 126.4387,
+    "depth_km": 35,
+    "place": "131 km NW of Ternate, Indonesia",
+    "time": 1775453531735,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smzl"
+  },
+  {
+    "event_id": "us6000smz7",
+    "magnitude": 4.6,
+    "latitude": 39.7119,
+    "longitude": 20.707,
+    "depth_km": 10,
+    "place": "1 km WNW of Rodot\u00f3pi, Greece",
+    "time": 1775449250717,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smz7"
+  },
+  {
+    "event_id": "us6000smyk",
+    "magnitude": 4.8,
+    "latitude": 1.4332,
+    "longitude": 126.2604,
+    "depth_km": 35,
+    "place": "125 km E of Bitung, Indonesia",
+    "time": 1775440606796,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smyk"
+  },
+  {
+    "event_id": "us6000spgv",
+    "magnitude": 4.7,
+    "latitude": -41.9509,
+    "longitude": 88.2351,
+    "depth_km": 10,
+    "place": "southeast Indian Ridge",
+    "time": 1775437692250,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spgv"
+  },
+  {
+    "event_id": "us6000smyb",
+    "magnitude": 5.2,
+    "latitude": -31.9492,
+    "longitude": -178.0646,
+    "depth_km": 10,
+    "place": "Kermadec Islands region",
+    "time": 1775436146628,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smyb"
+  },
+  {
+    "event_id": "us6000sqe4",
+    "magnitude": 4.6,
+    "latitude": -32.9427,
+    "longitude": -179.1853,
+    "depth_km": 96.826,
+    "place": "south of the Kermadec Islands",
+    "time": 1775432642971,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqe4"
+  },
+  {
+    "event_id": "us6000sqe3",
+    "magnitude": 4.6,
+    "latitude": -17.6925,
+    "longitude": -174.8792,
+    "depth_km": 9.989,
+    "place": "142 km NW of Neiafu, Tonga",
+    "time": 1775431882951,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqe3"
+  },
+  {
+    "event_id": "us6000smy1",
+    "magnitude": 4.5,
+    "latitude": -22.8704,
+    "longitude": -66.4388,
+    "depth_km": 249.776,
+    "place": "77 km WSW of Abra Pampa, Argentina",
+    "time": 1775429767149,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smy1"
+  },
+  {
+    "event_id": "us6000smxy",
+    "magnitude": 4.5,
+    "latitude": 0.8913,
+    "longitude": 126.2726,
+    "depth_km": 35,
+    "place": "124 km W of Ternate, Indonesia",
+    "time": 1775427482028,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smxy"
+  },
+  {
+    "event_id": "us6000sqe0",
+    "magnitude": 4.7,
+    "latitude": -33.6161,
+    "longitude": -179.018,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775427251929,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqe0"
+  },
+  {
+    "event_id": "us6000sqdz",
+    "magnitude": 4.7,
+    "latitude": -32.1808,
+    "longitude": -178.5757,
+    "depth_km": 35,
+    "place": "south of the Kermadec Islands",
+    "time": 1775425961160,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqdz"
+  },
+  {
+    "event_id": "us6000smxd",
+    "magnitude": 4.5,
+    "latitude": 1.202,
+    "longitude": 126.5084,
+    "depth_km": 35,
+    "place": "107 km WNW of Ternate, Indonesia",
+    "time": 1775415303056,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smxd"
+  },
+  {
+    "event_id": "us6000smwy",
+    "magnitude": 4.5,
+    "latitude": -22.2429,
+    "longitude": -63.8445,
+    "depth_km": 534.505,
+    "place": "30 km SW of Yacuiba, Bolivia",
+    "time": 1775411089667,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smwy"
+  },
+  {
+    "event_id": "us6000sqdp",
+    "magnitude": 4.7,
+    "latitude": -32.0437,
+    "longitude": -178.0435,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775410002957,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqdp"
+  },
+  {
+    "event_id": "us6000smwq",
+    "magnitude": 5.4,
+    "latitude": -32.1817,
+    "longitude": -177.9468,
+    "depth_km": 11,
+    "place": "south of the Kermadec Islands",
+    "time": 1775409647380,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smwq"
+  },
+  {
+    "event_id": "us6000smww",
+    "magnitude": 5.2,
+    "latitude": -32.0873,
+    "longitude": -178.0419,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775409591933,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smww"
+  },
+  {
+    "event_id": "us6000smwn",
+    "magnitude": 5,
+    "latitude": -32.0196,
+    "longitude": -178.6162,
+    "depth_km": 35,
+    "place": "south of the Kermadec Islands",
+    "time": 1775409041552,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smwn"
+  },
+  {
+    "event_id": "us6000smvy",
+    "magnitude": 4.6,
+    "latitude": 24.8579,
+    "longitude": 123.066,
+    "depth_km": 135.203,
+    "place": "43 km N of Yonakuni, Japan",
+    "time": 1775403241749,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smvy"
+  },
+  {
+    "event_id": "us6000smul",
+    "magnitude": 4.9,
+    "latitude": 39.5371,
+    "longitude": 74.6933,
+    "depth_km": 10,
+    "place": "111 km W of Kashgar, China",
+    "time": 1775395470692,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smul"
+  },
+  {
+    "event_id": "us6000smui",
+    "magnitude": 5.5,
+    "latitude": -32.0412,
+    "longitude": -177.8645,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775395335957,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smui"
+  },
+  {
+    "event_id": "us6000smtb",
+    "magnitude": 4.6,
+    "latitude": -0.1107,
+    "longitude": 125.7522,
+    "depth_km": 36.563,
+    "place": "159 km ESE of Modisi, Indonesia",
+    "time": 1775387354263,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smtb"
+  },
+  {
+    "event_id": "us6000smsw",
+    "magnitude": 4.6,
+    "latitude": 51.3635,
+    "longitude": -178.9699,
+    "depth_km": 35,
+    "place": "171 km WSW of Adak, Alaska",
+    "time": 1775380778046,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smsw"
+  },
+  {
+    "event_id": "us6000smzs",
+    "magnitude": 4.7,
+    "latitude": -49.5135,
+    "longitude": 126.1941,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1775377453959,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smzs"
+  },
+  {
+    "event_id": "us6000sqd5",
+    "magnitude": 4.5,
+    "latitude": 1.1189,
+    "longitude": 126.3614,
+    "depth_km": 35,
+    "place": "119 km WNW of Ternate, Indonesia",
+    "time": 1775372732992,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqd5"
+  },
+  {
+    "event_id": "us6000spgu",
+    "magnitude": 4.6,
+    "latitude": -51.5518,
+    "longitude": 139.6881,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1775364390030,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spgu"
+  },
+  {
+    "event_id": "us6000smq9",
+    "magnitude": 4.6,
+    "latitude": 40.0772,
+    "longitude": 78.284,
+    "depth_km": 10,
+    "place": "70 km WNW of Tumxuk, China",
+    "time": 1775355714416,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smq9"
+  },
+  {
+    "event_id": "us6000smq4",
+    "magnitude": 5.1,
+    "latitude": 28.3677,
+    "longitude": 142.5144,
+    "depth_km": 10,
+    "place": "Bonin Islands, Japan region",
+    "time": 1775355481199,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smq4"
+  },
+  {
+    "event_id": "us6000smq1",
+    "magnitude": 4.5,
+    "latitude": -33.8604,
+    "longitude": -72.0147,
+    "depth_km": 31.507,
+    "place": "47 km SW of San Antonio, Chile",
+    "time": 1775354327052,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smq1"
+  },
+  {
+    "event_id": "us6000smpy",
+    "magnitude": 4.6,
+    "latitude": 0.9073,
+    "longitude": 126.2561,
+    "depth_km": 35,
+    "place": "126 km W of Ternate, Indonesia",
+    "time": 1775351534041,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smpy"
+  },
+  {
+    "event_id": "us6000sqcm",
+    "magnitude": 4.5,
+    "latitude": -32.5163,
+    "longitude": -178.383,
+    "depth_km": 10,
+    "place": "south of the Kermadec Islands",
+    "time": 1775350524546,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqcm"
+  },
+  {
+    "event_id": "us6000sqci",
+    "magnitude": 4.5,
+    "latitude": 1.0533,
+    "longitude": 126.1658,
+    "depth_km": 35,
+    "place": "123 km ESE of Bitung, Indonesia",
+    "time": 1775348204693,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqci"
+  },
+  {
+    "event_id": "us6000sqch",
+    "magnitude": 4.5,
+    "latitude": 6.3939,
+    "longitude": 92.4656,
+    "depth_km": 10,
+    "place": "Nicobar Islands, India region",
+    "time": 1775347770549,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqch"
+  },
+  {
+    "event_id": "us6000smpb",
+    "magnitude": 4.5,
+    "latitude": 1.4473,
+    "longitude": 126.6146,
+    "depth_km": 35,
+    "place": "112 km NW of Ternate, Indonesia",
+    "time": 1775342270166,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smpb"
+  },
+  {
+    "event_id": "us6000smp9",
+    "magnitude": 5,
+    "latitude": -31.5203,
+    "longitude": -177.9766,
+    "depth_km": 30.861,
+    "place": "Kermadec Islands region",
+    "time": 1775341880621,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smp9"
+  },
+  {
+    "event_id": "us6000smnc",
+    "magnitude": 4.8,
+    "latitude": 1.5331,
+    "longitude": 126.6614,
+    "depth_km": 57.921,
+    "place": "114 km NW of Ternate, Indonesia",
+    "time": 1775333786490,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smnc"
+  },
+  {
+    "event_id": "us6000smnb",
+    "magnitude": 4.6,
+    "latitude": 1.3735,
+    "longitude": 126.3768,
+    "depth_km": 35,
+    "place": "129 km WNW of Ternate, Indonesia",
+    "time": 1775333487939,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smnb"
+  },
+  {
+    "event_id": "us6000smmw",
+    "magnitude": 4.7,
+    "latitude": 1.4056,
+    "longitude": 126.5108,
+    "depth_km": 27.768,
+    "place": "118 km NW of Ternate, Indonesia",
+    "time": 1775329153772,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smmw"
+  },
+  {
+    "event_id": "us6000smm5",
+    "magnitude": 5.5,
+    "latitude": -25.9643,
+    "longitude": 130.843,
+    "depth_km": 10,
+    "place": "81 km S of Yulara, Australia",
+    "time": 1775327173834,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smm5"
+  },
+  {
+    "event_id": "us6000smlu",
+    "magnitude": 5.2,
+    "latitude": 24.0026,
+    "longitude": 121.6426,
+    "depth_km": 29.676,
+    "place": "4 km NE of Hualien City, Taiwan",
+    "time": 1775322898646,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smlu"
+  },
+  {
+    "event_id": "us6000smlp",
+    "magnitude": 4.6,
+    "latitude": 2.8925,
+    "longitude": -84.1852,
+    "depth_km": 10,
+    "place": "off the coast of Central America",
+    "time": 1775320642834,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smlp"
+  },
+  {
+    "event_id": "us6000smlm",
+    "magnitude": 5.2,
+    "latitude": -4.5923,
+    "longitude": 153.65,
+    "depth_km": 108.286,
+    "place": "155 km E of Kokopo, Papua New Guinea",
+    "time": 1775319787684,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smlm"
+  },
+  {
+    "event_id": "us6000smli",
+    "magnitude": 4.6,
+    "latitude": 30.0884,
+    "longitude": 131.1042,
+    "depth_km": 42.323,
+    "place": "54 km SE of Koseda, Japan",
+    "time": 1775319253452,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smli"
+  },
+  {
+    "event_id": "us6000smlh",
+    "magnitude": 4.5,
+    "latitude": -21.8392,
+    "longitude": -68.5803,
+    "depth_km": 115.01,
+    "place": "75 km SSW of Ollag\u00fce, Chile",
+    "time": 1775317717316,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smlh"
+  },
+  {
+    "event_id": "us6000spgm",
+    "magnitude": 4.6,
+    "latitude": -18.4428,
+    "longitude": 65.3493,
+    "depth_km": 10,
+    "place": "245 km NE of Port Mathurin, Mauritius",
+    "time": 1775317423763,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spgm"
+  },
+  {
+    "event_id": "us6000smky",
+    "magnitude": 4.9,
+    "latitude": -2.2449,
+    "longitude": -80.3406,
+    "depth_km": 57.234,
+    "place": "38 km W of Santa Luc\u00eda, Ecuador",
+    "time": 1775305409388,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smky"
+  },
+  {
+    "event_id": "us6000smjx",
+    "magnitude": 5.2,
+    "latitude": -2.0108,
+    "longitude": 100.1315,
+    "depth_km": 34.429,
+    "place": "60 km E of Tuapejat, Indonesia",
+    "time": 1775301672245,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjx"
+  },
+  {
+    "event_id": "us6000smjk",
+    "magnitude": 4.8,
+    "latitude": -6.7896,
+    "longitude": 147.2695,
+    "depth_km": 68.116,
+    "place": "31 km ESE of Lae, Papua New Guinea",
+    "time": 1775299723459,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjk"
+  },
+  {
+    "event_id": "us6000smj7",
+    "magnitude": 5,
+    "latitude": 38.4237,
+    "longitude": 141.7641,
+    "depth_km": 79.829,
+    "place": "27 km E of Onagawa Ch\u014d, Japan",
+    "time": 1775299007254,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smj7"
+  },
+  {
+    "event_id": "us6000smj4",
+    "magnitude": 6,
+    "latitude": 4.8733,
+    "longitude": 126.1392,
+    "depth_km": 67,
+    "place": "95 km SE of Sarangani, Philippines",
+    "time": 1775298868266,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smj4"
+  },
+  {
+    "event_id": "us6000smis",
+    "magnitude": 4.5,
+    "latitude": 51.1121,
+    "longitude": 178.5825,
+    "depth_km": 21.58,
+    "place": "Rat Islands, Aleutian Islands, Alaska",
+    "time": 1775295589641,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smis"
+  },
+  {
+    "event_id": "us6000smik",
+    "magnitude": 4.8,
+    "latitude": -19.0609,
+    "longitude": -70.4136,
+    "depth_km": 59.026,
+    "place": "26 km WNW of Cuya, Chile",
+    "time": 1775294555614,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smik"
+  },
+  {
+    "event_id": "us6000sq9x",
+    "magnitude": 4.5,
+    "latitude": 1.1197,
+    "longitude": 126.4565,
+    "depth_km": 35,
+    "place": "109 km WNW of Ternate, Indonesia",
+    "time": 1775293988635,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq9x"
+  },
+  {
+    "event_id": "us6000smig",
+    "magnitude": 4.6,
+    "latitude": -19.0135,
+    "longitude": -174.6857,
+    "depth_km": 79.302,
+    "place": "84 km WSW of Neiafu, Tonga",
+    "time": 1775291628100,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smig"
+  },
+  {
+    "event_id": "us6000smic",
+    "magnitude": 5,
+    "latitude": -35.353,
+    "longitude": 178.6236,
+    "depth_km": 10,
+    "place": "251 km N of Hicks Bay, New Zealand",
+    "time": 1775290371544,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smic"
+  },
+  {
+    "event_id": "us6000smhq",
+    "magnitude": 5.1,
+    "latitude": 38.8598,
+    "longitude": 43.4767,
+    "depth_km": 10,
+    "place": "21 km SSE of Erci\u015f, Turkey",
+    "time": 1775281963249,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
+  },
+  {
+    "event_id": "us6000sq9m",
+    "magnitude": 4.5,
+    "latitude": -5.9499,
+    "longitude": 104.2708,
+    "depth_km": 48.44,
+    "place": "123 km WSW of Bandar Lampung, Indonesia",
+    "time": 1775280077138,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sq9m"
+  },
+  {
+    "event_id": "us6000smhl",
+    "magnitude": 5.5,
+    "latitude": -21.8079,
+    "longitude": 68.8773,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1775278532223,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhl"
+  },
+  {
+    "event_id": "us6000smhe",
+    "magnitude": 4.9,
+    "latitude": 1.1581,
+    "longitude": 126.1393,
+    "depth_km": 32.39,
+    "place": "116 km ESE of Bitung, Indonesia",
+    "time": 1775271189239,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhe"
+  },
+  {
+    "event_id": "us6000smgy",
+    "magnitude": 5.6,
+    "latitude": 1.0876,
+    "longitude": 126.076,
+    "depth_km": 41.507,
+    "place": "112 km ESE of Bitung, Indonesia",
+    "time": 1775266500122,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smgy"
+  },
+  {
+    "event_id": "us6000smg8",
+    "magnitude": 4.7,
+    "latitude": 1.3895,
+    "longitude": 126.2803,
+    "depth_km": 35,
+    "place": "128 km E of Bitung, Indonesia",
+    "time": 1775256589734,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smg8"
+  },
+  {
+    "event_id": "us6000smg6",
+    "magnitude": 4.5,
+    "latitude": 1.0224,
+    "longitude": 126.2726,
+    "depth_km": 35,
+    "place": "126 km WNW of Ternate, Indonesia",
+    "time": 1775255580128,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smg6"
+  },
+  {
+    "event_id": "us6000smfm",
+    "magnitude": 5.1,
+    "latitude": 1.4735,
+    "longitude": 126.26,
+    "depth_km": 35,
+    "place": "125 km E of Bitung, Indonesia",
+    "time": 1775251146281,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smfm"
+  },
+  {
+    "event_id": "us6000smda",
+    "magnitude": 5.8,
+    "latitude": 36.5479,
+    "longitude": 70.852,
+    "depth_km": 186.371,
+    "place": "35 km S of Jurm, Afghanistan",
+    "time": 1775232778037,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smda"
+  },
+  {
+    "event_id": "us6000smcw",
+    "magnitude": 4.6,
+    "latitude": 52.0528,
+    "longitude": 176.153,
+    "depth_km": 35,
+    "place": "220 km ESE of Attu Station, Alaska",
+    "time": 1775225255033,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smcw"
+  },
+  {
+    "event_id": "us6000smbs",
+    "magnitude": 5.1,
+    "latitude": 1.5039,
+    "longitude": 126.4253,
+    "depth_km": 35,
+    "place": "132 km NW of Ternate, Indonesia",
+    "time": 1775213947488,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smbs"
+  },
+  {
+    "event_id": "us6000smbl",
+    "magnitude": 5.5,
+    "latitude": 38.8967,
+    "longitude": 70.917,
+    "depth_km": 10,
+    "place": "49 km ESE of Rasht, Tajikistan",
+    "time": 1775212002802,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smbl"
+  },
+  {
+    "event_id": "us6000smbb",
+    "magnitude": 4.9,
+    "latitude": 1.3682,
+    "longitude": 126.3926,
+    "depth_km": 35,
+    "place": "127 km WNW of Ternate, Indonesia",
+    "time": 1775208247550,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smbb"
+  },
+  {
+    "event_id": "us6000sppe",
+    "magnitude": 4.6,
+    "latitude": 1.1092,
+    "longitude": 126.2119,
+    "depth_km": 35,
+    "place": "126 km ESE of Bitung, Indonesia",
+    "time": 1775206200604,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sppe"
+  },
+  {
+    "event_id": "us6000sppb",
+    "magnitude": 4.5,
+    "latitude": 1.0398,
+    "longitude": 125.8113,
+    "depth_km": 35,
+    "place": "87 km ESE of Bitung, Indonesia",
+    "time": 1775205084338,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sppb"
+  },
+  {
+    "event_id": "us6000smax",
+    "magnitude": 5.1,
+    "latitude": 52.279,
+    "longitude": 176.3511,
+    "depth_km": 10,
+    "place": "223 km ESE of Attu Station, Alaska",
+    "time": 1775204528857,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smax"
+  },
+  {
+    "event_id": "us6000smas",
+    "magnitude": 4.5,
+    "latitude": 53.0814,
+    "longitude": 159.9988,
+    "depth_km": 56.564,
+    "place": "91 km E of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1775200005197,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smas"
+  },
+  {
+    "event_id": "us6000sma8",
+    "magnitude": 5.2,
+    "latitude": 1.4266,
+    "longitude": 126.0665,
+    "depth_km": 35,
+    "place": "104 km E of Bitung, Indonesia",
+    "time": 1775191325325,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sma8"
+  },
+  {
+    "event_id": "us6000sm9y",
+    "magnitude": 5.5,
+    "latitude": 0.8485,
+    "longitude": 126.3736,
+    "depth_km": 35,
+    "place": "112 km W of Ternate, Indonesia",
+    "time": 1775187436194,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm9y"
+  },
+  {
+    "event_id": "us6000sm9k",
+    "magnitude": 4.6,
+    "latitude": -16.9931,
+    "longitude": -173.6514,
+    "depth_km": 165.769,
+    "place": "115 km S of Hihifo, Tonga",
+    "time": 1775184612979,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm9k"
+  },
+  {
+    "event_id": "us6000sm9g",
+    "magnitude": 5,
+    "latitude": -30.2625,
+    "longitude": -179.068,
+    "depth_km": 218.004,
+    "place": "Kermadec Islands region",
+    "time": 1775183628906,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm9g"
+  },
+  {
+    "event_id": "us6000sm9d",
+    "magnitude": 4.8,
+    "latitude": 1.0813,
+    "longitude": 126.3147,
+    "depth_km": 35,
+    "place": "123 km WNW of Ternate, Indonesia",
+    "time": 1775183321923,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm9d"
+  },
+  {
+    "event_id": "us6000sm9c",
+    "magnitude": 4.6,
+    "latitude": 0.9233,
+    "longitude": 126.2902,
+    "depth_km": 35,
+    "place": "122 km W of Ternate, Indonesia",
+    "time": 1775183029809,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm9c"
+  },
+  {
+    "event_id": "us6000sm96",
+    "magnitude": 5.1,
+    "latitude": 46.7325,
+    "longitude": 153.1307,
+    "depth_km": 35,
+    "place": "Kuril Islands",
+    "time": 1775182253396,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm96"
+  },
+  {
+    "event_id": "us6000sm91",
+    "magnitude": 4.8,
+    "latitude": 1.0215,
+    "longitude": 126.2709,
+    "depth_km": 35,
+    "place": "126 km WNW of Ternate, Indonesia",
+    "time": 1775181955288,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm91"
+  },
+  {
+    "event_id": "us6000sm8z",
+    "magnitude": 4.7,
+    "latitude": 0.9076,
+    "longitude": 126.2232,
+    "depth_km": 35,
+    "place": "129 km W of Ternate, Indonesia",
+    "time": 1775181479174,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8z"
+  },
+  {
+    "event_id": "us6000spny",
+    "magnitude": 4.6,
+    "latitude": 0.923,
+    "longitude": 126.2964,
+    "depth_km": 35,
+    "place": "121 km W of Ternate, Indonesia",
+    "time": 1775181114555,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spny"
+  },
+  {
+    "event_id": "us6000sm8r",
+    "magnitude": 5.3,
+    "latitude": 1.0053,
+    "longitude": 126.2949,
+    "depth_km": 35,
+    "place": "123 km W of Ternate, Indonesia",
+    "time": 1775180653538,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8r"
+  },
+  {
+    "event_id": "us6000spnx",
+    "magnitude": 4.5,
+    "latitude": 0.8687,
+    "longitude": 126.2641,
+    "depth_km": 35,
+    "place": "124 km W of Ternate, Indonesia",
+    "time": 1775179904137,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spnx"
+  },
+  {
+    "event_id": "us6000sm8p",
+    "magnitude": 4.5,
+    "latitude": 0.8509,
+    "longitude": 126.276,
+    "depth_km": 35,
+    "place": "123 km W of Ternate, Indonesia",
+    "time": 1775178159613,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8p"
+  },
+  {
+    "event_id": "us6000sm8h",
+    "magnitude": 5.3,
+    "latitude": 1.2437,
+    "longitude": 126.2978,
+    "depth_km": 35,
+    "place": "130 km WNW of Ternate, Indonesia",
+    "time": 1775176377016,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8h"
+  },
+  {
+    "event_id": "us6000sm8g",
+    "magnitude": 5.6,
+    "latitude": 1.3163,
+    "longitude": 126.4332,
+    "depth_km": 35,
+    "place": "120 km WNW of Ternate, Indonesia",
+    "time": 1775175740421,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8g"
+  },
+  {
+    "event_id": "us6000sm8a",
+    "magnitude": 5.4,
+    "latitude": -18.906,
+    "longitude": 169.4841,
+    "depth_km": 278.376,
+    "place": "73 km NNE of Isangel, Vanuatu",
+    "time": 1775172134773,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8a"
+  },
+  {
+    "event_id": "us6000sm7t",
+    "magnitude": 4.6,
+    "latitude": 0.8569,
+    "longitude": 126.366,
+    "depth_km": 35,
+    "place": "113 km W of Ternate, Indonesia",
+    "time": 1775166722193,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm7t"
+  },
+  {
+    "event_id": "us6000smcr",
+    "magnitude": 4.6,
+    "latitude": 1.3446,
+    "longitude": 126.3465,
+    "depth_km": 15.734,
+    "place": "130 km WNW of Ternate, Indonesia",
+    "time": 1775166291649,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smcr"
+  },
+  {
+    "event_id": "us6000sm74",
+    "magnitude": 4.9,
+    "latitude": -55.6171,
+    "longitude": -29.3164,
+    "depth_km": 10,
+    "place": "South Sandwich Islands region",
+    "time": 1775161349005,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm74"
+  },
+  {
+    "event_id": "us6000smcs",
+    "magnitude": 4.6,
+    "latitude": -41.6173,
+    "longitude": -85.2782,
+    "depth_km": 10,
+    "place": "West Chile Rise",
+    "time": 1775159531933,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smcs"
+  },
+  {
+    "event_id": "us6000sp52",
+    "magnitude": 4.5,
+    "latitude": 1.166,
+    "longitude": 126.0944,
+    "depth_km": 35,
+    "place": "111 km ESE of Bitung, Indonesia",
+    "time": 1775158328635,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp52"
+  },
+  {
+    "event_id": "us6000sm6n",
+    "magnitude": 4.8,
+    "latitude": 1.2246,
+    "longitude": 126.1939,
+    "depth_km": 35,
+    "place": "120 km ESE of Bitung, Indonesia",
+    "time": 1775158296018,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm6n"
+  },
+  {
+    "event_id": "us6000sm6k",
+    "magnitude": 4.9,
+    "latitude": 1.2498,
+    "longitude": 126.1633,
+    "depth_km": 35,
+    "place": "117 km E of Bitung, Indonesia",
+    "time": 1775156882410,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm6k"
+  },
+  {
+    "event_id": "us6000sm6e",
+    "magnitude": 5,
+    "latitude": 1.1724,
+    "longitude": 126.1172,
+    "depth_km": 35,
+    "place": "113 km ESE of Bitung, Indonesia",
+    "time": 1775155571883,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm6e"
+  },
+  {
+    "event_id": "us6000sp3u",
+    "magnitude": 4.5,
+    "latitude": 1.2651,
+    "longitude": 126.4705,
+    "depth_km": 35,
+    "place": "114 km WNW of Ternate, Indonesia",
+    "time": 1775153573396,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp3u"
+  },
+  {
+    "event_id": "us6000sm5y",
+    "magnitude": 4.5,
+    "latitude": 1.2049,
+    "longitude": 126.2583,
+    "depth_km": 35,
+    "place": "128 km ESE of Bitung, Indonesia",
+    "time": 1775152032915,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm5y"
+  },
+  {
+    "event_id": "us6000sm5i",
+    "magnitude": 5.1,
+    "latitude": 1.2405,
+    "longitude": 126.1543,
+    "depth_km": 35,
+    "place": "116 km E of Bitung, Indonesia",
+    "time": 1775146226585,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm5i"
+  },
+  {
+    "event_id": "us6000sm43",
+    "magnitude": 5.3,
+    "latitude": -3.7097,
+    "longitude": 134.8597,
+    "depth_km": 33.785,
+    "place": "81 km WSW of Nabire, Indonesia",
+    "time": 1775144196646,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm43"
+  },
+  {
+    "event_id": "us6000sm40",
+    "magnitude": 5.1,
+    "latitude": 1.5322,
+    "longitude": 126.3035,
+    "depth_km": 10,
+    "place": "131 km E of Bitung, Indonesia",
+    "time": 1775144063732,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm40"
+  },
+  {
+    "event_id": "us6000sm21",
+    "magnitude": 5.8,
+    "latitude": 1.2035,
+    "longitude": 126.3735,
+    "depth_km": 35,
+    "place": "121 km WNW of Ternate, Indonesia",
+    "time": 1775140499320,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm21"
+  },
+  {
+    "event_id": "us6000sm1v",
+    "magnitude": 5.9,
+    "latitude": 1.2401,
+    "longitude": 126.3004,
+    "depth_km": 35,
+    "place": "130 km WNW of Ternate, Indonesia",
+    "time": 1775139229201,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm1v"
+  },
+  {
+    "event_id": "us6000slzz",
+    "magnitude": 4.9,
+    "latitude": 1.1667,
+    "longitude": 126.2529,
+    "depth_km": 35,
+    "place": "128 km ESE of Bitung, Indonesia",
+    "time": 1775134984811,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slzz"
+  },
+  {
+    "event_id": "us6000slzy",
+    "magnitude": 4.5,
+    "latitude": 1.1761,
+    "longitude": 126.4211,
+    "depth_km": 35,
+    "place": "115 km WNW of Ternate, Indonesia",
+    "time": 1775133975341,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slzy"
+  },
+  {
+    "event_id": "us6000slzv",
+    "magnitude": 4.7,
+    "latitude": 1.3312,
+    "longitude": 126.6085,
+    "depth_km": 35,
+    "place": "105 km NW of Ternate, Indonesia",
+    "time": 1775133196648,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slzv"
+  },
+  {
+    "event_id": "us6000slzh",
+    "magnitude": 5.2,
+    "latitude": 1.3537,
+    "longitude": 126.2823,
+    "depth_km": 35,
+    "place": "128 km E of Bitung, Indonesia",
+    "time": 1775129735014,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slzh"
+  },
+  {
+    "event_id": "us6000slzg",
+    "magnitude": 4.9,
+    "latitude": 1.186,
+    "longitude": 126.222,
+    "depth_km": 35,
+    "place": "124 km ESE of Bitung, Indonesia",
+    "time": 1775128722599,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slzg"
+  },
+  {
+    "event_id": "us6000slz6",
+    "magnitude": 4.8,
+    "latitude": 1.383,
+    "longitude": 126.3217,
+    "depth_km": 35,
+    "place": "132 km E of Bitung, Indonesia",
+    "time": 1775125290842,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slz6"
+  },
+  {
+    "event_id": "us6000slza",
+    "magnitude": 4.8,
+    "latitude": 58.0792,
+    "longitude": 146.6019,
+    "depth_km": 9.835,
+    "place": "242 km SE of Okhotsk, Russia",
+    "time": 1775125284136,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slza"
+  },
+  {
+    "event_id": "us6000slz4",
+    "magnitude": 4.8,
+    "latitude": 1.3704,
+    "longitude": 126.1704,
+    "depth_km": 35,
+    "place": "116 km E of Bitung, Indonesia",
+    "time": 1775124621983,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slz4"
+  },
+  {
+    "event_id": "us6000slz0",
+    "magnitude": 4.6,
+    "latitude": 1.203,
+    "longitude": 126.4993,
+    "depth_km": 35,
+    "place": "108 km WNW of Ternate, Indonesia",
+    "time": 1775120754559,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slz0"
+  },
+  {
+    "event_id": "us6000slz1",
+    "magnitude": 4.6,
+    "latitude": 1.0101,
+    "longitude": 126.1172,
+    "depth_km": 35,
+    "place": "119 km ESE of Bitung, Indonesia",
+    "time": 1775120542000,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slz1"
+  },
+  {
+    "event_id": "us6000slyx",
+    "magnitude": 5,
+    "latitude": 1.3943,
+    "longitude": 126.4989,
+    "depth_km": 35,
+    "place": "119 km NW of Ternate, Indonesia",
+    "time": 1775119926726,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slyx"
+  },
+  {
+    "event_id": "nc75337442",
+    "magnitude": 4.59,
+    "latitude": 37.1156666666667,
+    "longitude": -122.1125,
+    "depth_km": 10.43,
+    "place": "1 km SE of Boulder Creek, CA",
+    "time": 1775119285520,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442"
+  },
+  {
+    "event_id": "us6000slyt",
+    "magnitude": 5.1,
+    "latitude": 1.1573,
+    "longitude": 126.1756,
+    "depth_km": 35,
+    "place": "120 km ESE of Bitung, Indonesia",
+    "time": 1775119139044,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slyt"
+  },
+  {
+    "event_id": "us6000sp2i",
+    "magnitude": 4.5,
+    "latitude": 1.113,
+    "longitude": 126.2793,
+    "depth_km": 35,
+    "place": "128 km WNW of Ternate, Indonesia",
+    "time": 1775118375947,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp2i"
+  },
+  {
+    "event_id": "us6000slyj",
+    "magnitude": 5.1,
+    "latitude": 43.225,
+    "longitude": 87.7633,
+    "depth_km": 10,
+    "place": "65 km SSE of \u00dcr\u00fcmqi, China",
+    "time": 1775115551287,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slyj"
+  },
+  {
+    "event_id": "us6000slyg",
+    "magnitude": 4.6,
+    "latitude": 1.1306,
+    "longitude": 126.1031,
+    "depth_km": 35,
+    "place": "113 km ESE of Bitung, Indonesia",
+    "time": 1775114155039,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slyg"
+  },
+  {
+    "event_id": "us6000sp4u",
+    "magnitude": 4.8,
+    "latitude": 1.2128,
+    "longitude": 126.4551,
+    "depth_km": 35,
+    "place": "113 km WNW of Ternate, Indonesia",
+    "time": 1775113574556,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp4u"
+  },
+  {
+    "event_id": "us6000slyf",
+    "magnitude": 5.2,
+    "latitude": 1.2752,
+    "longitude": 126.4786,
+    "depth_km": 35,
+    "place": "114 km WNW of Ternate, Indonesia",
+    "time": 1775113454591,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slyf"
+  },
+  {
+    "event_id": "us6000slye",
+    "magnitude": 4.6,
+    "latitude": 1.2527,
+    "longitude": 126.3168,
+    "depth_km": 35,
+    "place": "129 km WNW of Ternate, Indonesia",
+    "time": 1775112694835,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slye"
+  },
+  {
+    "event_id": "us6000sly3",
+    "magnitude": 5.2,
+    "latitude": 18.187,
+    "longitude": 146.5826,
+    "depth_km": 94.226,
+    "place": "Pagan region, Northern Mariana Islands",
+    "time": 1775110424700,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sly3"
+  },
+  {
+    "event_id": "us6000sp24",
+    "magnitude": 4.5,
+    "latitude": 0.9541,
+    "longitude": 125.9465,
+    "depth_km": 35,
+    "place": "105 km ESE of Bitung, Indonesia",
+    "time": 1775110210591,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp24"
+  },
+  {
+    "event_id": "us6000sp4s",
+    "magnitude": 4.5,
+    "latitude": 1.1268,
+    "longitude": 126.3646,
+    "depth_km": 35,
+    "place": "119 km WNW of Ternate, Indonesia",
+    "time": 1775109142430,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp4s"
+  },
+  {
+    "event_id": "us6000sp22",
+    "magnitude": 4.5,
+    "latitude": 1.1637,
+    "longitude": 126.2683,
+    "depth_km": 35,
+    "place": "130 km ESE of Bitung, Indonesia",
+    "time": 1775109116245,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp22"
+  },
+  {
+    "event_id": "us6000slxx",
+    "magnitude": 5,
+    "latitude": 1.2309,
+    "longitude": 126.4027,
+    "depth_km": 35,
+    "place": "119 km WNW of Ternate, Indonesia",
+    "time": 1775108500983,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slxx"
+  },
+  {
+    "event_id": "us6000slxu",
+    "magnitude": 5,
+    "latitude": 1.0749,
+    "longitude": 126.4076,
+    "depth_km": 35,
+    "place": "113 km WNW of Ternate, Indonesia",
+    "time": 1775108243105,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slxu"
+  },
+  {
+    "event_id": "us6000sp1z",
+    "magnitude": 4.5,
+    "latitude": 0.9809,
+    "longitude": 126.258,
+    "depth_km": 35,
+    "place": "127 km W of Ternate, Indonesia",
+    "time": 1775107616945,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1z"
+  },
+  {
+    "event_id": "us6000sp1s",
+    "magnitude": 4.6,
+    "latitude": 1.5761,
+    "longitude": 126.7007,
+    "depth_km": 35,
+    "place": "115 km NW of Ternate, Indonesia",
+    "time": 1775104925238,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1s"
+  },
+  {
+    "event_id": "us6000sp1n",
+    "magnitude": 4.5,
+    "latitude": 1.0453,
+    "longitude": 126.1073,
+    "depth_km": 35,
+    "place": "117 km ESE of Bitung, Indonesia",
+    "time": 1775103853076,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1n"
+  },
+  {
+    "event_id": "us6000sp1p",
+    "magnitude": 4.5,
+    "latitude": 1.2519,
+    "longitude": 126.1236,
+    "depth_km": 35,
+    "place": "112 km E of Bitung, Indonesia",
+    "time": 1775103653214,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1p"
+  },
+  {
+    "event_id": "us6000sp1i",
+    "magnitude": 4.5,
+    "latitude": 1.1266,
+    "longitude": 126.699,
+    "depth_km": 35,
+    "place": "84 km WNW of Ternate, Indonesia",
+    "time": 1775101853577,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1i"
+  },
+  {
+    "event_id": "us6000slx9",
+    "magnitude": 4.6,
+    "latitude": 3.2666,
+    "longitude": 126.8619,
+    "depth_km": 35,
+    "place": "212 km NW of Tobelo, Indonesia",
+    "time": 1775101773624,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slx9"
+  },
+  {
+    "event_id": "us6000sp1e",
+    "magnitude": 4.5,
+    "latitude": -17.543,
+    "longitude": 167.451,
+    "depth_km": 10,
+    "place": "94 km WNW of Port-Vila, Vanuatu",
+    "time": 1775101146069,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1e"
+  },
+  {
+    "event_id": "us6000sp1f",
+    "magnitude": 4.5,
+    "latitude": 1.2154,
+    "longitude": 126.0042,
+    "depth_km": 35,
+    "place": "100 km ESE of Bitung, Indonesia",
+    "time": 1775100741514,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1f"
+  },
+  {
+    "event_id": "us6000slwy",
+    "magnitude": 6.2,
+    "latitude": 1.2031,
+    "longitude": 126.474,
+    "depth_km": 35,
+    "place": "111 km WNW of Ternate, Indonesia",
+    "time": 1775100233642,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwy"
+  },
+  {
+    "event_id": "us6000slww",
+    "magnitude": 5.7,
+    "latitude": 1.2505,
+    "longitude": 126.3883,
+    "depth_km": 35,
+    "place": "121 km WNW of Ternate, Indonesia",
+    "time": 1775099872354,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slww"
+  },
+  {
+    "event_id": "us6000slwu",
+    "magnitude": 4.9,
+    "latitude": 1.0847,
+    "longitude": 126.4466,
+    "depth_km": 35,
+    "place": "109 km WNW of Ternate, Indonesia",
+    "time": 1775099677023,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwu"
+  },
+  {
+    "event_id": "us6000sp1a",
+    "magnitude": 4.5,
+    "latitude": 0.9655,
+    "longitude": 126.2428,
+    "depth_km": 35,
+    "place": "128 km W of Ternate, Indonesia",
+    "time": 1775098684671,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp1a"
+  },
+  {
+    "event_id": "us6000slwn",
+    "magnitude": 4.6,
+    "latitude": 1.0535,
+    "longitude": 126.1363,
+    "depth_km": 35,
+    "place": "120 km ESE of Bitung, Indonesia",
+    "time": 1775097099241,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwn"
+  },
+  {
+    "event_id": "us6000slwh",
+    "magnitude": 4.9,
+    "latitude": 1.1448,
+    "longitude": 126.0562,
+    "depth_km": 35,
+    "place": "108 km ESE of Bitung, Indonesia",
+    "time": 1775096622420,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwh"
+  },
+  {
+    "event_id": "us6000slwg",
+    "magnitude": 4.8,
+    "latitude": 0.9898,
+    "longitude": 126.2772,
+    "depth_km": 35,
+    "place": "125 km W of Ternate, Indonesia",
+    "time": 1775096528913,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwg"
+  },
+  {
+    "event_id": "us6000sp55",
+    "magnitude": 4.5,
+    "latitude": 1.2233,
+    "longitude": 126.2274,
+    "depth_km": 35,
+    "place": "124 km E of Bitung, Indonesia",
+    "time": 1775096055407,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sp55"
+  },
+  {
+    "event_id": "us6000slwd",
+    "magnitude": 5.2,
+    "latitude": 1.2225,
+    "longitude": 126.1405,
+    "depth_km": 35,
+    "place": "115 km ESE of Bitung, Indonesia",
+    "time": 1775095857763,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwd"
+  },
+  {
+    "event_id": "us6000slwc",
+    "magnitude": 4.7,
+    "latitude": 1.2049,
+    "longitude": 126.1025,
+    "depth_km": 35,
+    "place": "111 km ESE of Bitung, Indonesia",
+    "time": 1775095036061,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwc"
+  },
+  {
+    "event_id": "us6000slwa",
+    "magnitude": 4.5,
+    "latitude": 0.9912,
+    "longitude": 126.159,
+    "depth_km": 35,
+    "place": "125 km ESE of Bitung, Indonesia",
+    "time": 1775093359444,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwa"
+  },
+  {
+    "event_id": "us6000slw1",
+    "magnitude": 5,
+    "latitude": 38.167,
+    "longitude": 141.6037,
+    "depth_km": 66.591,
+    "place": "33 km SSE of Onagawa Ch\u014d, Japan",
+    "time": 1775091172373,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slw1"
+  },
+  {
+    "event_id": "us6000slvx",
+    "magnitude": 4.7,
+    "latitude": 1.2684,
+    "longitude": 126.171,
+    "depth_km": 35,
+    "place": "117 km E of Bitung, Indonesia",
+    "time": 1775090163492,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slvx"
+  },
+  {
+    "event_id": "us6000slvt",
+    "magnitude": 5.1,
+    "latitude": 1.1887,
+    "longitude": 126.2498,
+    "depth_km": 35,
+    "place": "127 km ESE of Bitung, Indonesia",
+    "time": 1775088919902,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slvt"
+  },
+  {
+    "event_id": "us6000slvh",
+    "magnitude": 5.1,
+    "latitude": 1.1961,
+    "longitude": 126.3522,
+    "depth_km": 35,
+    "place": "123 km WNW of Ternate, Indonesia",
+    "time": 1775087699470,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slvh"
+  },
+  {
+    "event_id": "us6000slvc",
+    "magnitude": 4.9,
+    "latitude": -21.4635,
+    "longitude": -178.9532,
+    "depth_km": 580.94,
+    "place": "Fiji region",
+    "time": 1775087074818,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slvc"
+  },
+  {
+    "event_id": "us6000slue",
+    "magnitude": 5.4,
+    "latitude": 1.0926,
+    "longitude": 126.2459,
+    "depth_km": 35,
+    "place": "130 km ESE of Bitung, Indonesia",
+    "time": 1775085209354,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slue"
+  },
+  {
+    "event_id": "us6000sltp",
+    "magnitude": 5.5,
+    "latitude": 1.0043,
+    "longitude": 126.419,
+    "depth_km": 35,
+    "place": "110 km WNW of Ternate, Indonesia",
+    "time": 1775084843967,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sltp"
+  },
+  {
+    "event_id": "us6000slss",
+    "magnitude": 7.4,
+    "latitude": 1.1171,
+    "longitude": 126.2965,
+    "depth_km": 35,
+    "place": "126 km WNW of Ternate, Indonesia",
+    "time": 1775083693172,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slss"
+  },
+  {
+    "event_id": "us6000slsj",
+    "magnitude": 4.6,
+    "latitude": -22.536,
+    "longitude": -66.3556,
+    "depth_km": 290.823,
+    "place": "70 km WNW of Abra Pampa, Argentina",
+    "time": 1775077787921,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slsj"
+  },
+  {
+    "event_id": "us6000slsi",
+    "magnitude": 4.9,
+    "latitude": -10.4517,
+    "longitude": 161.2363,
+    "depth_km": 91.107,
+    "place": "74 km W of Kirakira, Solomon Islands",
+    "time": 1775077299291,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slsi"
+  },
+  {
+    "event_id": "us6000slqr",
+    "magnitude": 4.6,
+    "latitude": 35.5223,
+    "longitude": 22.2578,
+    "depth_km": 53.02,
+    "place": "96 km SW of K\u00fdthira, Greece",
+    "time": 1775063493446,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slqr"
+  },
+  {
+    "event_id": "us6000snz6",
+    "magnitude": 4.5,
+    "latitude": -7.7722,
+    "longitude": 158.2426,
+    "depth_km": 31.149,
+    "place": "154 km WNW of Buala, Solomon Islands",
+    "time": 1775062514170,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snz6"
+  },
+  {
+    "event_id": "us7000s9et",
+    "magnitude": 4.5,
+    "latitude": 17.0548,
+    "longitude": -94.6988,
+    "depth_km": 10,
+    "place": "16 km N of Santa Mar\u00eda Chimalapa, Mexico",
+    "time": 1775052145730,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9et"
+  },
+  {
+    "event_id": "us7000s9da",
+    "magnitude": 4.7,
+    "latitude": -7.1861,
+    "longitude": 155.926,
+    "depth_km": 91.871,
+    "place": "107 km SSE of Panguna, Papua New Guinea",
+    "time": 1775049207425,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9da"
+  },
+  {
+    "event_id": "us7000s9d1",
+    "magnitude": 5.3,
+    "latitude": -0.3285,
+    "longitude": 129.7503,
+    "depth_km": 10,
+    "place": "84 km W of Waisai, Indonesia",
+    "time": 1775045640608,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9d1"
+  },
+  {
+    "event_id": "us7000s9cg",
+    "magnitude": 6,
+    "latitude": -7.0198,
+    "longitude": -76.1931,
+    "depth_km": 126,
+    "place": "18 km SE of Picota, Peru",
+    "time": 1775042427357,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9cg"
+  },
+  {
+    "event_id": "us7000s9c4",
+    "magnitude": 4.5,
+    "latitude": 3.7109,
+    "longitude": 126.0727,
+    "depth_km": 72.517,
+    "place": "198 km SSE of Sarangani, Philippines",
+    "time": 1775036652077,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9c4"
+  },
+  {
+    "event_id": "us7000s9br",
+    "magnitude": 4.9,
+    "latitude": -47.7342,
+    "longitude": 115.976,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1775032976507,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9br"
+  },
+  {
+    "event_id": "us7000s9ay",
+    "magnitude": 5.7,
+    "latitude": -21.7248,
+    "longitude": -179.2135,
+    "depth_km": 577.972,
+    "place": "Fiji region",
+    "time": 1775023706257,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9ay"
+  },
+  {
+    "event_id": "us7000s9ah",
+    "magnitude": 4.7,
+    "latitude": -31.2273,
+    "longitude": -179.7799,
+    "depth_km": 351.081,
+    "place": "Kermadec Islands region",
+    "time": 1775019297695,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9ah"
+  },
+  {
+    "event_id": "us7000s999",
+    "magnitude": 4.9,
+    "latitude": 36.0442,
+    "longitude": 139.8796,
+    "depth_km": 57.211,
+    "place": "1 km WSW of Iwai, Japan",
+    "time": 1775005578527,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s999"
+  },
+  {
+    "event_id": "us7000s97y",
+    "magnitude": 5,
+    "latitude": -12.7861,
+    "longitude": 169.2267,
+    "depth_km": 649.858,
+    "place": "217 km NE of Sola, Vanuatu",
+    "time": 1774994193940,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s97y"
+  },
+  {
+    "event_id": "pr2026090013",
+    "magnitude": 4.9,
+    "latitude": 19.2161,
+    "longitude": -64.8965,
+    "depth_km": 20,
+    "place": "96 km N of Charlotte Amalie, U.S. Virgin Islands",
+    "time": 1774991738200,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026090013"
+  },
+  {
+    "event_id": "us7000s963",
+    "magnitude": 5.7,
+    "latitude": -30.1893,
+    "longitude": -178.7419,
+    "depth_km": 197.466,
+    "place": "Kermadec Islands, New Zealand",
+    "time": 1774985095868,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s963"
+  },
+  {
+    "event_id": "us7000s95j",
+    "magnitude": 4.7,
+    "latitude": -20.6105,
+    "longitude": -178.0173,
+    "depth_km": 547.668,
+    "place": "289 km WNW of Houma, Tonga",
+    "time": 1774976942846,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s95j"
+  },
+  {
+    "event_id": "us7000s954",
+    "magnitude": 4.5,
+    "latitude": 33.9265,
+    "longitude": 139.9842,
+    "depth_km": 116.409,
+    "place": "117 km S of Tateyama, Japan",
+    "time": 1774971528865,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s954"
+  },
+  {
+    "event_id": "us6000sny3",
+    "magnitude": 4.5,
+    "latitude": -56.73,
+    "longitude": -141.379,
+    "depth_km": 10,
+    "place": "Pacific-Antarctic Ridge",
+    "time": 1774965100595,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sny3"
+  },
+  {
+    "event_id": "us7000s92w",
+    "magnitude": 5.1,
+    "latitude": 2.009,
+    "longitude": 121.8692,
+    "depth_km": 549.486,
+    "place": "210 km NW of Gorontalo, Indonesia",
+    "time": 1774955664054,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s92w"
+  },
+  {
+    "event_id": "us7000s92b",
+    "magnitude": 4.9,
+    "latitude": -16.3201,
+    "longitude": 167.6327,
+    "depth_km": 63.712,
+    "place": "33 km SE of Lakatoro, Vanuatu",
+    "time": 1774951428641,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s92b"
+  },
+  {
+    "event_id": "us7000s920",
+    "magnitude": 4.6,
+    "latitude": -20.4789,
+    "longitude": -177.9852,
+    "depth_km": 537.242,
+    "place": "289 km WNW of Houma, Tonga",
+    "time": 1774949576271,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s920"
+  },
+  {
+    "event_id": "pr2026090003",
+    "magnitude": 5,
+    "latitude": 19.5763,
+    "longitude": -63.5653,
+    "depth_km": 15,
+    "place": "159 km NNW of The Valley, Anguilla",
+    "time": 1774948957700,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026090003"
+  },
+  {
+    "event_id": "us7000s91d",
+    "magnitude": 4.7,
+    "latitude": 44.4797,
+    "longitude": 79.6702,
+    "depth_km": 10,
+    "place": "43 km NW of Zharkent, Kazakhstan",
+    "time": 1774937519049,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s91d"
+  },
+  {
+    "event_id": "us7000s902",
+    "magnitude": 4.7,
+    "latitude": 3.0073,
+    "longitude": 126.4704,
+    "depth_km": 53.91,
+    "place": "222 km NW of Tobelo, Indonesia",
+    "time": 1774928275253,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s902"
+  },
+  {
+    "event_id": "us7000s8zx",
+    "magnitude": 4.6,
+    "latitude": -3.496,
+    "longitude": 146.8713,
+    "depth_km": 10,
+    "place": "167 km SSW of Lorengau, Papua New Guinea",
+    "time": 1774926919795,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8zx"
+  },
+  {
+    "event_id": "us7000s8zw",
+    "magnitude": 4.9,
+    "latitude": -55.3251,
+    "longitude": -27.1153,
+    "depth_km": 10,
+    "place": "South Sandwich Islands region",
+    "time": 1774926734134,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8zw"
+  },
+  {
+    "event_id": "us7000s8x0",
+    "magnitude": 4.8,
+    "latitude": -14.7112,
+    "longitude": 167.1146,
+    "depth_km": 86.834,
+    "place": "36 km N of Port-Olry, Vanuatu",
+    "time": 1774900227561,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8x0"
+  },
+  {
+    "event_id": "us7000s8ux",
+    "magnitude": 4.8,
+    "latitude": -29.6128,
+    "longitude": -177.8753,
+    "depth_km": 52.807,
+    "place": "Kermadec Islands, New Zealand",
+    "time": 1774884154665,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8ux"
+  },
+  {
+    "event_id": "us7000s8um",
+    "magnitude": 5.2,
+    "latitude": 23.9725,
+    "longitude": -45.9699,
+    "depth_km": 10,
+    "place": "northern Mid-Atlantic Ridge",
+    "time": 1774881812466,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8um"
+  },
+  {
+    "event_id": "us7000s8uh",
+    "magnitude": 4.5,
+    "latitude": -18.657,
+    "longitude": -175.5796,
+    "depth_km": 192.821,
+    "place": "168 km W of Neiafu, Tonga",
+    "time": 1774881260481,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8uh"
+  },
+  {
+    "event_id": "us7000s8u9",
+    "magnitude": 4.5,
+    "latitude": -23.2579,
+    "longitude": -66.5816,
+    "depth_km": 200.444,
+    "place": "92 km W of El Aguilar, Argentina",
+    "time": 1774880790204,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8u9"
+  },
+  {
+    "event_id": "us7000s8sa",
+    "magnitude": 5.1,
+    "latitude": -47.7724,
+    "longitude": 115.8837,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1774865659409,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8sa"
+  },
+  {
+    "event_id": "us6000snsi",
+    "magnitude": 4.5,
+    "latitude": -15.4796,
+    "longitude": 167.4934,
+    "depth_km": 119.227,
+    "place": "35 km E of Luganville, Vanuatu",
+    "time": 1774864894458,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snsi"
+  },
+  {
+    "event_id": "us7000s8rs",
+    "magnitude": 5,
+    "latitude": -15.3663,
+    "longitude": 167.5229,
+    "depth_km": 149.049,
+    "place": "42 km ENE of Luganville, Vanuatu",
+    "time": 1774861352124,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8rs"
+  },
+  {
+    "event_id": "us7000s8q0",
+    "magnitude": 7.3,
+    "latitude": -15.3139,
+    "longitude": 167.5616,
+    "depth_km": 121.28,
+    "place": "48 km ENE of Luganville, Vanuatu",
+    "time": 1774860253823,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8q0"
+  },
+  {
+    "event_id": "us7000s8v7",
+    "magnitude": 5.4,
+    "latitude": -15.2696,
+    "longitude": 167.4673,
+    "depth_km": 115.406,
+    "place": "42 km NE of Luganville, Vanuatu",
+    "time": 1774860247642,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8v7"
+  },
+  {
+    "event_id": "us7000s8pt",
+    "magnitude": 4.5,
+    "latitude": 40.5605,
+    "longitude": 142.7159,
+    "depth_km": 35.401,
+    "place": "90 km ENE of Kuji, Japan",
+    "time": 1774856819029,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8pt"
+  },
+  {
+    "event_id": "us7000s8pl",
+    "magnitude": 5.4,
+    "latitude": 11.4154,
+    "longitude": -86.8927,
+    "depth_km": 57.537,
+    "place": "58 km SW of Masachapa, Nicaragua",
+    "time": 1774855828018,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8pl"
+  },
+  {
+    "event_id": "us7000s8p7",
+    "magnitude": 4.6,
+    "latitude": 12.6049,
+    "longitude": -89.4064,
+    "depth_km": 31.192,
+    "place": "98 km S of La Libertad, El Salvador",
+    "time": 1774847727722,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8p7"
+  },
+  {
+    "event_id": "us7000s8nq",
+    "magnitude": 4.7,
+    "latitude": 26.3013,
+    "longitude": 128.9058,
+    "depth_km": 10,
+    "place": "83 km ESE of Taira, Japan",
+    "time": 1774843451234,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8nq"
+  },
+  {
+    "event_id": "us7000s8nn",
+    "magnitude": 4.9,
+    "latitude": -7.41,
+    "longitude": 128.5886,
+    "depth_km": 149.278,
+    "place": "214 km NE of Lospalos, Timor Leste",
+    "time": 1774843223658,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8nn"
+  },
+  {
+    "event_id": "us7000s8ng",
+    "magnitude": 4.7,
+    "latitude": 26.3319,
+    "longitude": 128.9301,
+    "depth_km": 10,
+    "place": "84 km ESE of Taira, Japan",
+    "time": 1774841478179,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8ng"
+  },
+  {
+    "event_id": "us7000s8n3",
+    "magnitude": 4.6,
+    "latitude": 26.1678,
+    "longitude": 128.8256,
+    "depth_km": 10,
+    "place": "84 km SE of Taira, Japan",
+    "time": 1774836764937,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8n3"
+  },
+  {
+    "event_id": "us7000s8mj",
+    "magnitude": 4.9,
+    "latitude": 26.2532,
+    "longitude": 128.8657,
+    "depth_km": 10,
+    "place": "82 km ESE of Taira, Japan",
+    "time": 1774833150515,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8mj"
+  },
+  {
+    "event_id": "us6000sns0",
+    "magnitude": 4.6,
+    "latitude": -47.2025,
+    "longitude": -10.5067,
+    "depth_km": 10,
+    "place": "southern Mid-Atlantic Ridge",
+    "time": 1774830235075,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sns0"
+  },
+  {
+    "event_id": "us7000s8me",
+    "magnitude": 5.2,
+    "latitude": -16.4164,
+    "longitude": -173.658,
+    "depth_km": 47.782,
+    "place": "53 km SSE of Hihifo, Tonga",
+    "time": 1774827913919,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8me"
+  },
+  {
+    "event_id": "us7000s8lc",
+    "magnitude": 4.6,
+    "latitude": -10.7691,
+    "longitude": 113.9741,
+    "depth_km": 10,
+    "place": "254 km SSW of Jimbaran, Indonesia",
+    "time": 1774810011126,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8lc"
+  },
+  {
+    "event_id": "us7000s8kx",
+    "magnitude": 5.4,
+    "latitude": -5.4076,
+    "longitude": 153.7031,
+    "depth_km": 43,
+    "place": "197 km SE of Kokopo, Papua New Guinea",
+    "time": 1774807796156,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8kx"
+  },
+  {
+    "event_id": "us7000s8jx",
+    "magnitude": 4.5,
+    "latitude": 13.7273,
+    "longitude": 145.2259,
+    "depth_km": 66.632,
+    "place": "42 km ENE of Yigo Village, Guam",
+    "time": 1774796783734,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8jx"
+  },
+  {
+    "event_id": "us7000sbce",
+    "magnitude": 4.5,
+    "latitude": -21.5295,
+    "longitude": 69.058,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774768853548,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbce"
+  },
+  {
+    "event_id": "us7000s8id",
+    "magnitude": 5.1,
+    "latitude": 28.0229,
+    "longitude": 128.1503,
+    "depth_km": 10,
+    "place": "77 km WNW of Amagi, Japan",
+    "time": 1774768074743,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8id"
+  },
+  {
+    "event_id": "us7000s8lg",
+    "magnitude": 4.7,
+    "latitude": -21.7781,
+    "longitude": 68.8141,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774767833052,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8lg"
+  },
+  {
+    "event_id": "us7000sbc9",
+    "magnitude": 4.6,
+    "latitude": -15.095,
+    "longitude": -173.2156,
+    "depth_km": 10,
+    "place": "113 km NNE of Hihifo, Tonga",
+    "time": 1774765866120,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbc9"
+  },
+  {
+    "event_id": "us7000s8h7",
+    "magnitude": 4.5,
+    "latitude": 27.1414,
+    "longitude": 88.1012,
+    "depth_km": 10,
+    "place": "13 km W of Naya B\u0101z\u0101r, India",
+    "time": 1774754078812,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8h7"
+  },
+  {
+    "event_id": "us7000s8h2",
+    "magnitude": 4.6,
+    "latitude": 22.3802,
+    "longitude": 120.4573,
+    "depth_km": 10,
+    "place": "9 km S of Donggang, Taiwan",
+    "time": 1774753937712,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8h2"
+  },
+  {
+    "event_id": "us7000s8h1",
+    "magnitude": 4.5,
+    "latitude": 38.0329,
+    "longitude": 20.8173,
+    "depth_km": 45.046,
+    "place": "14 km SSE of P\u00f3ros, Greece",
+    "time": 1774753318010,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8h1"
+  },
+  {
+    "event_id": "us7000sb6j",
+    "magnitude": 4.6,
+    "latitude": -15.3307,
+    "longitude": -172.92,
+    "depth_km": 10,
+    "place": "116 km NE of Hihifo, Tonga",
+    "time": 1774740606656,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb6j"
+  },
+  {
+    "event_id": "us7000s8fz",
+    "magnitude": 4.5,
+    "latitude": -20.8092,
+    "longitude": 39.8502,
+    "depth_km": 10,
+    "place": "Mozambique Channel",
+    "time": 1774734517451,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fz"
+  },
+  {
+    "event_id": "us7000sb6e",
+    "magnitude": 4.5,
+    "latitude": 52.3401,
+    "longitude": 157.6693,
+    "depth_km": 10,
+    "place": "79 km SSW of Paratunka, Russia",
+    "time": 1774724975196,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb6e"
+  },
+  {
+    "event_id": "us7000s8ec",
+    "magnitude": 5.8,
+    "latitude": -7.5517,
+    "longitude": 127.7983,
+    "depth_km": 159,
+    "place": "138 km NE of Lospalos, Timor Leste",
+    "time": 1774723109292,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8ec"
+  },
+  {
+    "event_id": "us7000s8dr",
+    "magnitude": 4.7,
+    "latitude": 52.1476,
+    "longitude": 160.8257,
+    "depth_km": 10,
+    "place": "180 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774713548560,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8dr"
+  },
+  {
+    "event_id": "us7000s8dk",
+    "magnitude": 4.9,
+    "latitude": 16.5453,
+    "longitude": -98.3736,
+    "depth_km": 10,
+    "place": "4 km NW of San Juan Bautista Lo de Soto, Mexico",
+    "time": 1774710130052,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8dk"
+  },
+  {
+    "event_id": "us7000s8d7",
+    "magnitude": 5.1,
+    "latitude": 16.3342,
+    "longitude": -98.617,
+    "depth_km": 10,
+    "place": "13 km SW of San Nicol\u00e1s, Mexico",
+    "time": 1774702673114,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8d7"
+  },
+  {
+    "event_id": "us7000sb63",
+    "magnitude": 4.5,
+    "latitude": -30.1307,
+    "longitude": 60.7636,
+    "depth_km": 10,
+    "place": "Southwest Indian Ridge",
+    "time": 1774701572071,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb63"
+  },
+  {
+    "event_id": "us7000s8d2",
+    "magnitude": 4.7,
+    "latitude": 16.1694,
+    "longitude": -98.6436,
+    "depth_km": 10,
+    "place": "28 km SW of Santiago Tepextla, Mexico",
+    "time": 1774700955026,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8d2"
+  },
+  {
+    "event_id": "us7000s8fi",
+    "magnitude": 4.6,
+    "latitude": 10.2798,
+    "longitude": 93.7211,
+    "depth_km": 10,
+    "place": "186 km SE of Port Blair, India",
+    "time": 1774698743542,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8fi"
+  },
+  {
+    "event_id": "us7000s8cm",
+    "magnitude": 4.8,
+    "latitude": -15.3336,
+    "longitude": -173.1644,
+    "depth_km": 10,
+    "place": "96 km NE of Hihifo, Tonga",
+    "time": 1774693015060,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8cm"
+  },
+  {
+    "event_id": "us7000sb5y",
+    "magnitude": 4.8,
+    "latitude": -11.1864,
+    "longitude": 163.0681,
+    "depth_km": 10,
+    "place": "149 km ESE of Kirakira, Solomon Islands",
+    "time": 1774683653287,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb5y"
+  },
+  {
+    "event_id": "us7000s8c7",
+    "magnitude": 5.2,
+    "latitude": -3.499,
+    "longitude": 140.3611,
+    "depth_km": 47.326,
+    "place": "104 km SSW of Abepura, Indonesia",
+    "time": 1774683346612,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8c7"
+  },
+  {
+    "event_id": "us7000s8bz",
+    "magnitude": 4.5,
+    "latitude": 16.3849,
+    "longitude": -98.5339,
+    "depth_km": 10,
+    "place": "3 km W of Montecillos, Mexico",
+    "time": 1774679355139,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8bz"
+  },
+  {
+    "event_id": "us7000s8bm",
+    "magnitude": 4.7,
+    "latitude": 25.1856,
+    "longitude": 125.2934,
+    "depth_km": 10,
+    "place": "42 km N of Hirara, Japan",
+    "time": 1774676055871,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8bm"
+  },
+  {
+    "event_id": "us7000s8b4",
+    "magnitude": 4.6,
+    "latitude": 16.4218,
+    "longitude": -98.4784,
+    "depth_km": 35,
+    "place": "4 km NNE of Montecillos, Mexico",
+    "time": 1774672025873,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8b4"
+  },
+  {
+    "event_id": "us7000s8ay",
+    "magnitude": 4.6,
+    "latitude": 5.6461,
+    "longitude": 125.5883,
+    "depth_km": 205.198,
+    "place": "13 km SE of Kalbay, Philippines",
+    "time": 1774668837947,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8ay"
+  },
+  {
+    "event_id": "us7000sb5n",
+    "magnitude": 4.5,
+    "latitude": -15.7943,
+    "longitude": -173.1367,
+    "depth_km": 35,
+    "place": "72 km ENE of Hihifo, Tonga",
+    "time": 1774664333227,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb5n"
+  },
+  {
+    "event_id": "us7000s8ae",
+    "magnitude": 4.5,
+    "latitude": 32.6917,
+    "longitude": 71.2494,
+    "depth_km": 10,
+    "place": "19 km SSW of Kamar Mushani, Pakistan",
+    "time": 1774660801982,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8ae"
+  },
+  {
+    "event_id": "us7000sb5i",
+    "magnitude": 4.5,
+    "latitude": -15.8923,
+    "longitude": -173.071,
+    "depth_km": 35,
+    "place": "77 km E of Hihifo, Tonga",
+    "time": 1774660535383,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb5i"
+  },
+  {
+    "event_id": "us7000s8a0",
+    "magnitude": 5.4,
+    "latitude": -15.9208,
+    "longitude": -172.4385,
+    "depth_km": 10,
+    "place": "145 km E of Hihifo, Tonga",
+    "time": 1774654509558,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8a0"
+  },
+  {
+    "event_id": "us7000s89u",
+    "magnitude": 4.5,
+    "latitude": -23.2954,
+    "longitude": -179.8342,
+    "depth_km": 544.247,
+    "place": "south of the Fiji Islands",
+    "time": 1774652778191,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s89u"
+  },
+  {
+    "event_id": "us7000s88b",
+    "magnitude": 4.7,
+    "latitude": -57.031,
+    "longitude": -26.4035,
+    "depth_km": 115.952,
+    "place": "South Sandwich Islands region",
+    "time": 1774642243571,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s88b"
+  },
+  {
+    "event_id": "us7000s86y",
+    "magnitude": 4.9,
+    "latitude": 52.3752,
+    "longitude": 160.5314,
+    "depth_km": 36.638,
+    "place": "149 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774629905818,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s86y"
+  },
+  {
+    "event_id": "us7000s83k",
+    "magnitude": 5.1,
+    "latitude": 39.3975,
+    "longitude": 143.1958,
+    "depth_km": 16.096,
+    "place": "107 km E of Yamada, Japan",
+    "time": 1774625073227,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s83k"
+  },
+  {
+    "event_id": "us7000s83h",
+    "magnitude": 4.5,
+    "latitude": 12.5984,
+    "longitude": -87.3158,
+    "depth_km": 118.538,
+    "place": "17 km WNW of El Realejo, Nicaragua",
+    "time": 1774623343581,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s83h"
+  },
+  {
+    "event_id": "us7000s826",
+    "magnitude": 4.5,
+    "latitude": -6.3882,
+    "longitude": 143.7086,
+    "depth_km": 10,
+    "place": "27 km SSE of Mendi, Papua New Guinea",
+    "time": 1774597571892,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s826"
+  },
+  {
+    "event_id": "us7000s825",
+    "magnitude": 4.5,
+    "latitude": 28.2392,
+    "longitude": 67.2433,
+    "depth_km": 10,
+    "place": "70 km WNW of Chowki Jamali, Pakistan",
+    "time": 1774596945869,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s825"
+  },
+  {
+    "event_id": "us7000s81u",
+    "magnitude": 4.7,
+    "latitude": 31.3684,
+    "longitude": 141.7473,
+    "depth_km": 10,
+    "place": "Izu Islands, Japan region",
+    "time": 1774594669565,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s81u"
+  },
+  {
+    "event_id": "us7000s817",
+    "magnitude": 5,
+    "latitude": 36.6041,
+    "longitude": 74.3996,
+    "depth_km": 10,
+    "place": "41 km NW of Barishal, Pakistan",
+    "time": 1774587177950,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s817"
+  },
+  {
+    "event_id": "us7000s812",
+    "magnitude": 5,
+    "latitude": 36.7245,
+    "longitude": 74.4939,
+    "depth_km": 10,
+    "place": "48 km NNW of Barishal, Pakistan",
+    "time": 1774586409839,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s812"
+  },
+  {
+    "event_id": "us7000s80u",
+    "magnitude": 4.8,
+    "latitude": -4.0175,
+    "longitude": -104.0987,
+    "depth_km": 10,
+    "place": "central East Pacific Rise",
+    "time": 1774583992792,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s80u"
+  },
+  {
+    "event_id": "us7000s7z5",
+    "magnitude": 5.7,
+    "latitude": -3.1837,
+    "longitude": 139.3807,
+    "depth_km": 53.94,
+    "place": "153 km WSW of Abepura, Indonesia",
+    "time": 1774565461074,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7z5"
+  },
+  {
+    "event_id": "us7000s7yr",
+    "magnitude": 4.8,
+    "latitude": 13.2175,
+    "longitude": -89.2159,
+    "depth_km": 70.542,
+    "place": "32 km SSE of La Libertad, El Salvador",
+    "time": 1774563068332,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7yr"
+  },
+  {
+    "event_id": "us7000s7yl",
+    "magnitude": 4.7,
+    "latitude": 47.4339,
+    "longitude": 153.0497,
+    "depth_km": 70.535,
+    "place": "Kuril Islands",
+    "time": 1774561765415,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7yl"
+  },
+  {
+    "event_id": "us6000sm5a",
+    "magnitude": 4.7,
+    "latitude": -11.6355,
+    "longitude": 163.2246,
+    "depth_km": 10,
+    "place": "193 km SE of Kirakira, Solomon Islands",
+    "time": 1774560847967,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm5a"
+  },
+  {
+    "event_id": "us7000s7xx",
+    "magnitude": 5.3,
+    "latitude": 36.5841,
+    "longitude": 74.3994,
+    "depth_km": 10,
+    "place": "39 km NW of Barishal, Pakistan",
+    "time": 1774558977433,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7xx"
+  },
+  {
+    "event_id": "us7000s7xc",
+    "magnitude": 4.9,
+    "latitude": 39.4245,
+    "longitude": 143.3275,
+    "depth_km": 10,
+    "place": "118 km E of Yamada, Japan",
+    "time": 1774554991413,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7xc"
+  },
+  {
+    "event_id": "us7000s7wv",
+    "magnitude": 4.5,
+    "latitude": 28.3073,
+    "longitude": 104.9069,
+    "depth_km": 10,
+    "place": "14 km W of Bowangshan, China",
+    "time": 1774550548206,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7wv"
+  },
+  {
+    "event_id": "us7000s7w6",
+    "magnitude": 5.5,
+    "latitude": 12.1477,
+    "longitude": -86.3658,
+    "depth_km": 159.972,
+    "place": "2 km WSW of Ciudad Sandino, Nicaragua",
+    "time": 1774545344551,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7w6"
+  },
+  {
+    "event_id": "us7000s7uw",
+    "magnitude": 4.8,
+    "latitude": 39.5986,
+    "longitude": 143.3643,
+    "depth_km": 10,
+    "place": "122 km E of Miyako, Japan",
+    "time": 1774542032961,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7uw"
+  },
+  {
+    "event_id": "us7000s7up",
+    "magnitude": 4.6,
+    "latitude": 39.5827,
+    "longitude": 143.3051,
+    "depth_km": 10,
+    "place": "117 km E of Yamada, Japan",
+    "time": 1774540785355,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7up"
+  },
+  {
+    "event_id": "us7000s7u7",
+    "magnitude": 4.6,
+    "latitude": 39.493,
+    "longitude": 143.3758,
+    "depth_km": 10,
+    "place": "122 km E of Yamada, Japan",
+    "time": 1774536425846,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7u7"
+  },
+  {
+    "event_id": "us7000s7u5",
+    "magnitude": 4.6,
+    "latitude": 39.5589,
+    "longitude": 143.2857,
+    "depth_km": 10,
+    "place": "115 km E of Yamada, Japan",
+    "time": 1774535825843,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7u5"
+  },
+  {
+    "event_id": "us6000sm4z",
+    "magnitude": 4.6,
+    "latitude": 39.4632,
+    "longitude": 143.4903,
+    "depth_km": 10,
+    "place": "132 km E of Yamada, Japan",
+    "time": 1774535317803,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm4z"
+  },
+  {
+    "event_id": "us7000s7u4",
+    "magnitude": 6.5,
+    "latitude": 39.4377,
+    "longitude": 143.3826,
+    "depth_km": 16,
+    "place": "123 km E of Yamada, Japan",
+    "time": 1774534731927,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7u4"
+  },
+  {
+    "event_id": "us7000s7ru",
+    "magnitude": 4.7,
+    "latitude": 26.3306,
+    "longitude": 128.874,
+    "depth_km": 10,
+    "place": "79 km ESE of Taira, Japan",
+    "time": 1774523601743,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ru"
+  },
+  {
+    "event_id": "us7000s7rp",
+    "magnitude": 5.1,
+    "latitude": 15.5516,
+    "longitude": -93.1759,
+    "depth_km": 112.284,
+    "place": "5 km WSW of El Carmen, Mexico",
+    "time": 1774523220798,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7rp"
+  },
+  {
+    "event_id": "us7000s7re",
+    "magnitude": 4.7,
+    "latitude": -23.3111,
+    "longitude": 170.6301,
+    "depth_km": 10,
+    "place": "southeast of the Loyalty Islands",
+    "time": 1774516114006,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7re"
+  },
+  {
+    "event_id": "us7000s7rc",
+    "magnitude": 4.6,
+    "latitude": 39.5131,
+    "longitude": 143.2397,
+    "depth_km": 26.815,
+    "place": "111 km E of Yamada, Japan",
+    "time": 1774515112732,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7rc"
+  },
+  {
+    "event_id": "us7000s7qu",
+    "magnitude": 4.9,
+    "latitude": 40.744,
+    "longitude": 142.5182,
+    "depth_km": 48.057,
+    "place": "88 km NE of Kuji, Japan",
+    "time": 1774510674346,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7qu"
+  },
+  {
+    "event_id": "us7000s7qi",
+    "magnitude": 4.6,
+    "latitude": -7.2698,
+    "longitude": 120.3547,
+    "depth_km": 541.484,
+    "place": "145 km NNE of Labuan Bajo, Indonesia",
+    "time": 1774503144234,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7qi"
+  },
+  {
+    "event_id": "us6000sm4g",
+    "magnitude": 4.6,
+    "latitude": -30.0699,
+    "longitude": -177.954,
+    "depth_km": 47.713,
+    "place": "Kermadec Islands, New Zealand",
+    "time": 1774501758312,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm4g"
+  },
+  {
+    "event_id": "us7000s7qa",
+    "magnitude": 5,
+    "latitude": -3.7765,
+    "longitude": 123.2993,
+    "depth_km": 10,
+    "place": "89 km ENE of Kendari, Indonesia",
+    "time": 1774499990446,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7qa"
+  },
+  {
+    "event_id": "us7000s7pa",
+    "magnitude": 5.3,
+    "latitude": -61.181,
+    "longitude": 154.2346,
+    "depth_km": 10,
+    "place": "Balleny Islands region",
+    "time": 1774487177868,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7pa"
+  },
+  {
+    "event_id": "us7000s7nc",
+    "magnitude": 5,
+    "latitude": 52.3039,
+    "longitude": 160.8873,
+    "depth_km": 10,
+    "place": "174 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774477515458,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7nc"
+  },
+  {
+    "event_id": "us7000s7n0",
+    "magnitude": 4.9,
+    "latitude": -7.4531,
+    "longitude": 155.9975,
+    "depth_km": 84.231,
+    "place": "117 km NW of Gizo, Solomon Islands",
+    "time": 1774473920450,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7n0"
+  },
+  {
+    "event_id": "us7000s7lv",
+    "magnitude": 4.5,
+    "latitude": -25.3592,
+    "longitude": 179.9265,
+    "depth_km": 507.662,
+    "place": "south of the Fiji Islands",
+    "time": 1774469147900,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7lv"
+  },
+  {
+    "event_id": "us7000s7l9",
+    "magnitude": 4.9,
+    "latitude": 40.3446,
+    "longitude": 24.0761,
+    "depth_km": 10,
+    "place": "7 km E of Ouranoupolis, Greece",
+    "time": 1774465704864,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7l9"
+  },
+  {
+    "event_id": "us6000sm3h",
+    "magnitude": 4.7,
+    "latitude": -29.3346,
+    "longitude": -177.0648,
+    "depth_km": 35,
+    "place": "Kermadec Islands, New Zealand",
+    "time": 1774462492637,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm3h"
+  },
+  {
+    "event_id": "us7000s7jj",
+    "magnitude": 4.6,
+    "latitude": 52.2591,
+    "longitude": 160.6561,
+    "depth_km": 10,
+    "place": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774453368973,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7jj"
+  },
+  {
+    "event_id": "us7000s7ji",
+    "magnitude": 4.9,
+    "latitude": -12.4629,
+    "longitude": 166.5473,
+    "depth_km": 102.951,
+    "place": "190 km NW of Sola, Vanuatu",
+    "time": 1774452797911,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ji"
+  },
+  {
+    "event_id": "us6000sm3c",
+    "magnitude": 4.5,
+    "latitude": -15.6337,
+    "longitude": 167.7407,
+    "depth_km": 127.521,
+    "place": "60 km NE of Norsup, Vanuatu",
+    "time": 1774450238135,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm3c"
+  },
+  {
+    "event_id": "us7000s7jf",
+    "magnitude": 4.7,
+    "latitude": -13.7003,
+    "longitude": 66.029,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774449337023,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7jf"
+  },
+  {
+    "event_id": "us7000s7ir",
+    "magnitude": 4.6,
+    "latitude": 52.3754,
+    "longitude": 160.6902,
+    "depth_km": 10,
+    "place": "159 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774439317456,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ir"
+  },
+  {
+    "event_id": "us7000s7in",
+    "magnitude": 4.9,
+    "latitude": -5.7993,
+    "longitude": 152.0176,
+    "depth_km": 10,
+    "place": "163 km S of Kokopo, Papua New Guinea",
+    "time": 1774436373711,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7in"
+  },
+  {
+    "event_id": "us7000s7ha",
+    "magnitude": 4.9,
+    "latitude": -15.5423,
+    "longitude": -174.5318,
+    "depth_km": 184.315,
+    "place": "91 km WNW of Hihifo, Tonga",
+    "time": 1774433848386,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ha"
+  },
+  {
+    "event_id": "us6000sm32",
+    "magnitude": 5,
+    "latitude": -15.5565,
+    "longitude": -174.6302,
+    "depth_km": 208.165,
+    "place": "99 km WNW of Hihifo, Tonga",
+    "time": 1774433538932,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm32"
+  },
+  {
+    "event_id": "us7000s7h9",
+    "magnitude": 5.6,
+    "latitude": -15.5366,
+    "longitude": -174.5414,
+    "depth_km": 193.976,
+    "place": "92 km WNW of Hihifo, Tonga",
+    "time": 1774433459997,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7h9"
+  },
+  {
+    "event_id": "us6000sm2w",
+    "magnitude": 4.7,
+    "latitude": -21.657,
+    "longitude": 68.8789,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774428422896,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm2w"
+  },
+  {
+    "event_id": "us7000s7gp",
+    "magnitude": 4.6,
+    "latitude": -18.3985,
+    "longitude": -175.5343,
+    "depth_km": 223.652,
+    "place": "166 km W of Neiafu, Tonga",
+    "time": 1774424108984,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7gp"
+  },
+  {
+    "event_id": "us7000s7fx",
+    "magnitude": 5,
+    "latitude": -18.6098,
+    "longitude": -175.4868,
+    "depth_km": 211.842,
+    "place": "158 km W of Neiafu, Tonga",
+    "time": 1774405480600,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7fx"
+  },
+  {
+    "event_id": "us6000sm1h",
+    "magnitude": 4.6,
+    "latitude": -5.7625,
+    "longitude": 153.1523,
+    "depth_km": 10,
+    "place": "185 km SSE of Kokopo, Papua New Guinea",
+    "time": 1774394302439,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm1h"
+  },
+  {
+    "event_id": "us7000s7ex",
+    "magnitude": 5,
+    "latitude": 52.2733,
+    "longitude": 160.7536,
+    "depth_km": 10,
+    "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774391749010,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ex"
+  },
+  {
+    "event_id": "us7000s7er",
+    "magnitude": 4.6,
+    "latitude": -18.586,
+    "longitude": -175.6873,
+    "depth_km": 272.14,
+    "place": "179 km W of Neiafu, Tonga",
+    "time": 1774389456957,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7er"
+  },
+  {
+    "event_id": "us7000s7ee",
+    "magnitude": 5.2,
+    "latitude": 52.2729,
+    "longitude": 176.3839,
+    "depth_km": 10,
+    "place": "226 km ESE of Attu Station, Alaska",
+    "time": 1774385975952,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ee"
+  },
+  {
+    "event_id": "us7000s7ed",
+    "magnitude": 4.9,
+    "latitude": -21.8456,
+    "longitude": 68.8952,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774385279248,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ed"
+  },
+  {
+    "event_id": "us7000s7cn",
+    "magnitude": 4.5,
+    "latitude": 51.6256,
+    "longitude": -176.6784,
+    "depth_km": 53.938,
+    "place": "27 km S of Adak, Alaska",
+    "time": 1774370610875,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7cn"
+  },
+  {
+    "event_id": "us7000s7cg",
+    "magnitude": 4.5,
+    "latitude": -14.9874,
+    "longitude": -72.6318,
+    "depth_km": 82.397,
+    "place": "10 km NE of Puyca, Peru",
+    "time": 1774366603163,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7cg"
+  },
+  {
+    "event_id": "us6000sm15",
+    "magnitude": 4.6,
+    "latitude": -17.7128,
+    "longitude": -178.354,
+    "depth_km": 575.903,
+    "place": "249 km E of Levuka, Fiji",
+    "time": 1774361053765,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm15"
+  },
+  {
+    "event_id": "us6000sm12",
+    "magnitude": 4.5,
+    "latitude": -14.1747,
+    "longitude": 167.4219,
+    "depth_km": 197.317,
+    "place": "35 km SSW of Sola, Vanuatu",
+    "time": 1774358789122,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm12"
+  },
+  {
+    "event_id": "us7000s7a9",
+    "magnitude": 4.6,
+    "latitude": -20.0026,
+    "longitude": -70.9658,
+    "depth_km": 21.143,
+    "place": "88 km WNW of Puerto, Chile",
+    "time": 1774343239267,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7a9"
+  },
+  {
+    "event_id": "us7000s7a4",
+    "magnitude": 4.7,
+    "latitude": -23.8106,
+    "longitude": -179.5854,
+    "depth_km": 491.996,
+    "place": "south of the Fiji Islands",
+    "time": 1774341278158,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7a4"
+  },
+  {
+    "event_id": "us7000s79u",
+    "magnitude": 4.6,
+    "latitude": -18.5261,
+    "longitude": -175.5298,
+    "depth_km": 190.688,
+    "place": "163 km W of Neiafu, Tonga",
+    "time": 1774334757590,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s79u"
+  },
+  {
+    "event_id": "us6000sm0t",
+    "magnitude": 4.5,
+    "latitude": -2.9839,
+    "longitude": 101.0425,
+    "depth_km": 52.532,
+    "place": "109 km SSW of Sungai Penuh, Indonesia",
+    "time": 1774332710358,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm0t"
+  },
+  {
+    "event_id": "us6000sm0r",
+    "magnitude": 4.6,
+    "latitude": -18.219,
+    "longitude": -175.3046,
+    "depth_km": 235.839,
+    "place": "147 km WNW of Neiafu, Tonga",
+    "time": 1774331482749,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm0r"
+  },
+  {
+    "event_id": "us7000s79e",
+    "magnitude": 5.1,
+    "latitude": -18.4489,
+    "longitude": -175.4135,
+    "depth_km": 208.693,
+    "place": "152 km W of Neiafu, Tonga",
+    "time": 1774329743968,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s79e"
+  },
+  {
+    "event_id": "us7000s799",
+    "magnitude": 5,
+    "latitude": -18.1688,
+    "longitude": -175.195,
+    "depth_km": 222.948,
+    "place": "138 km WNW of Neiafu, Tonga",
+    "time": 1774329512220,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s799"
+  },
+  {
+    "event_id": "us6000sm0l",
+    "magnitude": 5,
+    "latitude": -18.3487,
+    "longitude": -175.23,
+    "depth_km": 213.289,
+    "place": "135 km WNW of Neiafu, Tonga",
+    "time": 1774327866863,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm0l"
+  },
+  {
+    "event_id": "us7000s789",
+    "magnitude": 7.5,
+    "latitude": -18.597,
+    "longitude": -175.3917,
+    "depth_km": 234,
+    "place": "148 km W of Neiafu, Tonga",
+    "time": 1774327071514,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s789"
+  },
+  {
+    "event_id": "us7000s77u",
+    "magnitude": 4.6,
+    "latitude": 51.4525,
+    "longitude": 159.7301,
+    "depth_km": 10,
+    "place": "187 km SSE of Vilyuchinsk, Russia",
+    "time": 1774319017245,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s77u"
+  },
+  {
+    "event_id": "us6000sm0c",
+    "magnitude": 4.5,
+    "latitude": -59.5352,
+    "longitude": -25.8838,
+    "depth_km": 35,
+    "place": "South Sandwich Islands region",
+    "time": 1774313642399,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm0c"
+  },
+  {
+    "event_id": "us7000s77c",
+    "magnitude": 4.9,
+    "latitude": -16.0545,
+    "longitude": -172.9567,
+    "depth_km": 10,
+    "place": "90 km E of Hihifo, Tonga",
+    "time": 1774312204050,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s77c"
+  },
+  {
+    "event_id": "us7000s774",
+    "magnitude": 4.9,
+    "latitude": 32.3287,
+    "longitude": 142.4471,
+    "depth_km": 10,
+    "place": "Izu Islands, Japan region",
+    "time": 1774309750553,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s774"
+  },
+  {
+    "event_id": "us7000s775",
+    "magnitude": 4.5,
+    "latitude": 32.2846,
+    "longitude": 142.564,
+    "depth_km": 10,
+    "place": "Izu Islands, Japan region",
+    "time": 1774309637694,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s775"
+  },
+  {
+    "event_id": "us7000s76x",
+    "magnitude": 4.5,
+    "latitude": -15.9481,
+    "longitude": -173.0499,
+    "depth_km": 35,
+    "place": "79 km E of Hihifo, Tonga",
+    "time": 1774307228561,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s76x"
+  },
+  {
+    "event_id": "us7000s76q",
+    "magnitude": 4.9,
+    "latitude": -19.9914,
+    "longitude": -70.916,
+    "depth_km": 16.439,
+    "place": "83 km WNW of Puerto, Chile",
+    "time": 1774306337090,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s76q"
+  },
+  {
+    "event_id": "us7000s76i",
+    "magnitude": 4.6,
+    "latitude": -20.0312,
+    "longitude": -71.0124,
+    "depth_km": 12.131,
+    "place": "92 km WNW of Puerto, Chile",
+    "time": 1774304359431,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s76i"
+  },
+  {
+    "event_id": "us7000s9g7",
+    "magnitude": 4.5,
+    "latitude": -57.8449,
+    "longitude": -25.7193,
+    "depth_km": 51.129,
+    "place": "South Sandwich Islands region",
+    "time": 1774295288283,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9g7"
+  },
+  {
+    "event_id": "us6000sivm",
+    "magnitude": 4.6,
+    "latitude": 29.3951,
+    "longitude": 130.6543,
+    "depth_km": 37.533,
+    "place": "93 km S of Koshima, Japan",
+    "time": 1774269585756,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sivm"
+  },
+  {
+    "event_id": "us6000siwl",
+    "magnitude": 4.6,
+    "latitude": -15.2987,
+    "longitude": -173.0189,
+    "depth_km": 10,
+    "place": "110 km NE of Hihifo, Tonga",
+    "time": 1774267129864,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siwl"
+  },
+  {
+    "event_id": "us6000siv4",
+    "magnitude": 4.6,
+    "latitude": 2.1769,
+    "longitude": 126.8095,
+    "depth_km": 94.838,
+    "place": "142 km WNW of Tobelo, Indonesia",
+    "time": 1774265102380,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siv4"
+  },
+  {
+    "event_id": "us7000s9fi",
+    "magnitude": 4.6,
+    "latitude": -60.4887,
+    "longitude": -22.7404,
+    "depth_km": 10,
+    "place": "South Sandwich Islands region",
+    "time": 1774255500201,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9fi"
+  },
+  {
+    "event_id": "us6000siu5",
+    "magnitude": 5,
+    "latitude": -15.3073,
+    "longitude": -172.8398,
+    "depth_km": 10,
+    "place": "125 km NE of Hihifo, Tonga",
+    "time": 1774255468828,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siu5"
+  },
+  {
+    "event_id": "us6000sisy",
+    "magnitude": 4.5,
+    "latitude": 18.4792,
+    "longitude": -102.8486,
+    "depth_km": 58.89,
+    "place": "29 km SSW of Aguililla, Mexico",
+    "time": 1774247214624,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sisy"
+  },
+  {
+    "event_id": "us6000sisb",
+    "magnitude": 5.7,
+    "latitude": -15.5458,
+    "longitude": -172.8966,
+    "depth_km": 10,
+    "place": "106 km ENE of Hihifo, Tonga",
+    "time": 1774245766592,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sisb"
+  },
+  {
+    "event_id": "us6000sirk",
+    "magnitude": 4.8,
+    "latitude": -23.4061,
+    "longitude": -175.4444,
+    "depth_km": 10,
+    "place": "234 km SSW of \u2018Ohonua, Tonga",
+    "time": 1774239780205,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sirk"
+  },
+  {
+    "event_id": "us6000sire",
+    "magnitude": 4.6,
+    "latitude": -19.3098,
+    "longitude": 168.2542,
+    "depth_km": 10,
+    "place": "110 km WNW of Isangel, Vanuatu",
+    "time": 1774237681110,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sire"
+  },
+  {
+    "event_id": "us6000sipj",
+    "magnitude": 5.1,
+    "latitude": 23.9067,
+    "longitude": -45.9617,
+    "depth_km": 10,
+    "place": "northern Mid-Atlantic Ridge",
+    "time": 1774230097445,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sipj"
+  },
+  {
+    "event_id": "us6000sipe",
+    "magnitude": 5.1,
+    "latitude": -48.8353,
+    "longitude": 124.4997,
+    "depth_km": 10,
+    "place": "western Indian-Antarctic Ridge",
+    "time": 1774229373154,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sipe"
+  },
+  {
+    "event_id": "us6000siln",
+    "magnitude": 5.9,
+    "latitude": -15.6311,
+    "longitude": -172.8184,
+    "depth_km": 13,
+    "place": "110 km ENE of Hihifo, Tonga",
+    "time": 1774218374332,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siln"
+  },
+  {
+    "event_id": "us6000sikr",
+    "magnitude": 4.9,
+    "latitude": -11.4429,
+    "longitude": 163.3124,
+    "depth_km": 10,
+    "place": "187 km SE of Kirakira, Solomon Islands",
+    "time": 1774209682765,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sikr"
+  },
+  {
+    "event_id": "us6000siji",
+    "magnitude": 4.7,
+    "latitude": -17.6633,
+    "longitude": -178.7528,
+    "depth_km": 545.181,
+    "place": "209 km ENE of Levuka, Fiji",
+    "time": 1774202967182,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siji"
+  },
+  {
+    "event_id": "us6000sij5",
+    "magnitude": 4.9,
+    "latitude": -35.1046,
+    "longitude": 179.768,
+    "depth_km": 61.624,
+    "place": "off the east coast of the North Island of New Zealand",
+    "time": 1774199195207,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sij5"
+  },
+  {
+    "event_id": "us6000siii",
+    "magnitude": 4.8,
+    "latitude": -14.9873,
+    "longitude": -173.0047,
+    "depth_km": 10,
+    "place": "136 km NE of Hihifo, Tonga",
+    "time": 1774196591906,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siii"
+  },
+  {
+    "event_id": "us6000siia",
+    "magnitude": 5.6,
+    "latitude": -14.9521,
+    "longitude": -173.0721,
+    "depth_km": 10,
+    "place": "135 km NE of Hihifo, Tonga",
+    "time": 1774195218732,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siia"
+  },
+  {
+    "event_id": "us6000sii1",
+    "magnitude": 6.3,
+    "latitude": -15.3376,
+    "longitude": -172.652,
+    "depth_km": 12,
+    "place": "140 km ENE of Hihifo, Tonga",
+    "time": 1774193436570,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sii1"
+  },
+  {
+    "event_id": "us6000sii0",
+    "magnitude": 6.2,
+    "latitude": -15.2769,
+    "longitude": -172.5558,
+    "depth_km": 10,
+    "place": "152 km ENE of Hihifo, Tonga",
+    "time": 1774193275074,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sii0"
+  },
+  {
+    "event_id": "us6000sihv",
+    "magnitude": 4.5,
+    "latitude": -6.8934,
+    "longitude": 129.7353,
+    "depth_km": 117.311,
+    "place": "Banda Sea",
+    "time": 1774192138728,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sihv"
+  },
+  {
+    "event_id": "us6000siht",
+    "magnitude": 4.6,
+    "latitude": -15.6728,
+    "longitude": -71.687,
+    "depth_km": 169.009,
+    "place": "2 km S of Ichupampa, Peru",
+    "time": 1774191977296,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siht"
+  },
+  {
+    "event_id": "us6000sih1",
+    "magnitude": 4.6,
+    "latitude": -15.3833,
+    "longitude": -172.5185,
+    "depth_km": 48.765,
+    "place": "150 km ENE of Hihifo, Tonga",
+    "time": 1774188494954,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sih1"
+  },
+  {
+    "event_id": "us7000s9ed",
+    "magnitude": 4.5,
+    "latitude": 9.3702,
+    "longitude": 125.987,
+    "depth_km": 10,
+    "place": "4 km E of Carrascal, Philippines",
+    "time": 1774182605428,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9ed"
+  },
+  {
+    "event_id": "us6000sifz",
+    "magnitude": 4.5,
+    "latitude": 53.0347,
+    "longitude": 170.9623,
+    "depth_km": 10,
+    "place": "150 km W of Attu Station, Alaska",
+    "time": 1774181060617,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sifz"
+  },
+  {
+    "event_id": "us7000s9ec",
+    "magnitude": 4.5,
+    "latitude": -5.4425,
+    "longitude": 68.5631,
+    "depth_km": 10,
+    "place": "Chagos Archipelago region",
+    "time": 1774180321033,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9ec"
+  },
+  {
+    "event_id": "us6000sifv",
+    "magnitude": 5,
+    "latitude": -59.6538,
+    "longitude": -26.1809,
+    "depth_km": 108.458,
+    "place": "South Sandwich Islands region",
+    "time": 1774179589678,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sifv"
+  },
+  {
+    "event_id": "us7000s9ea",
+    "magnitude": 4.5,
+    "latitude": -15.1603,
+    "longitude": -173.1292,
+    "depth_km": 10,
+    "place": "113 km NE of Hihifo, Tonga",
+    "time": 1774177065550,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9ea"
+  },
+  {
+    "event_id": "us6000siep",
+    "magnitude": 4.8,
+    "latitude": 52.3166,
+    "longitude": 160.5203,
+    "depth_km": 30.666,
+    "place": "152 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774167274946,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siep"
+  },
+  {
+    "event_id": "us6000siem",
+    "magnitude": 4.7,
+    "latitude": 52.1478,
+    "longitude": 160.5909,
+    "depth_km": 10,
+    "place": "167 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774166828759,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000siem"
+  },
+  {
+    "event_id": "us6000sieg",
+    "magnitude": 4.8,
+    "latitude": -17.7345,
+    "longitude": -69.5788,
+    "depth_km": 138.565,
+    "place": "40 km E of Palca, Peru",
+    "time": 1774166574327,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sieg"
+  },
+  {
+    "event_id": "us7000s9e5",
+    "magnitude": 4.5,
+    "latitude": 52.2691,
+    "longitude": 160.825,
+    "depth_km": 10,
+    "place": "172 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774164228727,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9e5"
+  },
+  {
+    "event_id": "us6000sie4",
+    "magnitude": 5.2,
+    "latitude": 52.2156,
+    "longitude": 160.8067,
+    "depth_km": 10,
+    "place": "175 km ESE of Petropavlovsk-Kamchatsky, Russia",
+    "time": 1774163998715,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sie4"
+  },
+  {
+    "event_id": "us6000sidb",
+    "magnitude": 6.2,
+    "latitude": -15.1922,
+    "longitude": -172.96,
+    "depth_km": 14,
+    "place": "123 km NE of Hihifo, Tonga",
+    "time": 1774160136306,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sidb"
+  },
+  {
+    "event_id": "us6000sida",
+    "magnitude": 5,
+    "latitude": -32.0545,
+    "longitude": 57.1527,
+    "depth_km": 10,
+    "place": "Southwest Indian Ridge",
+    "time": 1774159717644,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sida"
+  },
+  {
+    "event_id": "us6000sicx",
+    "magnitude": 4.6,
+    "latitude": 13.602,
+    "longitude": 120.82,
+    "depth_km": 148.282,
+    "place": "8 km SW of Tingloy, Philippines",
+    "time": 1774157410601,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sicx"
+  },
+  {
+    "event_id": "us6000sidm",
+    "magnitude": 4.6,
+    "latitude": 23.9383,
+    "longitude": -45.76,
+    "depth_km": 10,
+    "place": "northern Mid-Atlantic Ridge",
+    "time": 1774157175488,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sidm"
+  },
+  {
+    "event_id": "us6000sicc",
+    "magnitude": 4.7,
+    "latitude": -6.188,
+    "longitude": 103.9142,
+    "depth_km": 35,
+    "place": "171 km WSW of Bandar Lampung, Indonesia",
+    "time": 1774151509674,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sicc"
+  },
+  {
+    "event_id": "us6000sic3",
+    "magnitude": 5.7,
+    "latitude": -8.9092,
+    "longitude": -108.3968,
+    "depth_km": 10,
+    "place": "central East Pacific Rise",
+    "time": 1774148625129,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sic3"
+  },
+  {
+    "event_id": "us6000sib0",
+    "magnitude": 4.9,
+    "latitude": -28.1476,
+    "longitude": 62.6632,
+    "depth_km": 10,
+    "place": "Southwest Indian Ridge",
+    "time": 1774138489869,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sib0"
+  },
+  {
+    "event_id": "us7000s94l",
+    "magnitude": 4.5,
+    "latitude": -28.7795,
+    "longitude": -176.555,
+    "depth_km": 10,
+    "place": "Kermadec Islands region",
+    "time": 1774129116943,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s94l"
+  },
+  {
+    "event_id": "us6000si9m",
+    "magnitude": 5,
+    "latitude": -29.2454,
+    "longitude": -179.0521,
+    "depth_km": 303.062,
+    "place": "Kermadec Islands region",
+    "time": 1774123645751,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si9m"
+  },
+  {
+    "event_id": "us6000si9i",
+    "magnitude": 4.5,
+    "latitude": -21.3308,
+    "longitude": -66.649,
+    "depth_km": 228.218,
+    "place": "62 km SW of Atocha, Bolivia",
+    "time": 1774122429482,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si9i"
+  },
+  {
+    "event_id": "us6000si8m",
+    "magnitude": 5.1,
+    "latitude": -7.5504,
+    "longitude": 105.0028,
+    "depth_km": 10,
+    "place": "158 km SW of Labuan, Indonesia",
+    "time": 1774116533265,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si8m"
+  },
+  {
+    "event_id": "us7000s94d",
+    "magnitude": 4.8,
+    "latitude": -55.3832,
+    "longitude": -27.0978,
+    "depth_km": 10,
+    "place": "South Sandwich Islands region",
+    "time": 1774107011772,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s94d"
+  },
+  {
+    "event_id": "us6000si5l",
+    "magnitude": 6.6,
+    "latitude": 23.8601,
+    "longitude": -45.7987,
+    "depth_km": 10,
+    "place": "northern Mid-Atlantic Ridge",
+    "time": 1774095406629,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si5l"
+  },
+  {
+    "event_id": "us6000si5j",
+    "magnitude": 4.6,
+    "latitude": 29.404,
+    "longitude": 130.6401,
+    "depth_km": 39.742,
+    "place": "92 km S of Koshima, Japan",
+    "time": 1774093996953,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si5j"
+  },
+  {
+    "event_id": "us6000si57",
+    "magnitude": 5.4,
+    "latitude": 29.4858,
+    "longitude": 130.6689,
+    "depth_km": 21.65,
+    "place": "84 km S of Koshima, Japan",
+    "time": 1774091524314,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si57"
+  },
+  {
+    "event_id": "us7000s945",
+    "magnitude": 4.6,
+    "latitude": -14.9596,
+    "longitude": -173.7662,
+    "depth_km": 10,
+    "place": "110 km N of Hihifo, Tonga",
+    "time": 1774090335853,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s945"
+  },
+  {
+    "event_id": "us6000sieq",
+    "magnitude": 5.4,
+    "latitude": -55.5085,
+    "longitude": -124.7074,
+    "depth_km": 10,
+    "place": "southern East Pacific Rise",
+    "time": 1774089354111,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sieq"
+  },
+  {
+    "event_id": "us6000si52",
+    "magnitude": 5,
+    "latitude": -30.2244,
+    "longitude": -177.2245,
+    "depth_km": 10,
+    "place": "Kermadec Islands, New Zealand",
+    "time": 1774088758976,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si52"
+  },
+  {
+    "event_id": "us6000si4j",
+    "magnitude": 5.6,
+    "latitude": -24.0161,
+    "longitude": -66.994,
+    "depth_km": 191.861,
+    "place": "72 km WNW of San Antonio de los Cobres, Argentina",
+    "time": 1774087237826,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si4j"
+  },
+  {
+    "event_id": "us6000si2t",
+    "magnitude": 4.8,
+    "latitude": -21.8996,
+    "longitude": -178.8162,
+    "depth_km": 498.581,
+    "place": "Fiji region",
+    "time": 1774072565860,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si2t"
+  },
+  {
+    "event_id": "us6000si1v",
+    "magnitude": 4.5,
+    "latitude": -16.0026,
+    "longitude": 166.8422,
+    "depth_km": 32.059,
+    "place": "59 km W of Norsup, Vanuatu",
+    "time": 1774066527500,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si1v"
+  },
+  {
+    "event_id": "us6000si17",
+    "magnitude": 5.7,
+    "latitude": -16.011,
+    "longitude": 166.9002,
+    "depth_km": 22,
+    "place": "53 km W of Norsup, Vanuatu",
+    "time": 1774063258592,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si17"
+  },
+  {
+    "event_id": "us6000si0t",
+    "magnitude": 4.5,
+    "latitude": 35.104,
+    "longitude": 69.9964,
+    "depth_km": 93.404,
+    "place": "42 km NE of Tag\u0101b, Afghanistan",
+    "time": 1774058511302,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si0t"
+  },
+  {
+    "event_id": "us6000si0l",
+    "magnitude": 5.2,
+    "latitude": 38.4955,
+    "longitude": 14.3678,
+    "depth_km": 10,
+    "place": "40 km W of Leni, Italy",
+    "time": 1774057565619,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si0l"
+  },
+  {
+    "event_id": "us6000si0j",
+    "magnitude": 4.6,
+    "latitude": 51.7695,
+    "longitude": 160.1309,
+    "depth_km": 35,
+    "place": "174 km SE of Vilyuchinsk, Russia",
+    "time": 1774056503881,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si0j"
+  },
+  {
+    "event_id": "us6000si0c",
+    "magnitude": 4.5,
+    "latitude": 13.8633,
+    "longitude": 51.5446,
+    "depth_km": 10,
+    "place": "200 km NNW of Kilmia, Yemen",
+    "time": 1774053090321,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000si0c"
+  },
+  {
+    "event_id": "us6000shzt",
+    "magnitude": 4.5,
+    "latitude": 38.2173,
+    "longitude": 20.2557,
+    "depth_km": 10,
+    "place": "15 km W of Lixo\u00fari, Greece",
+    "time": 1774049481091,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shzt"
+  },
+  {
+    "event_id": "us6000shyj",
+    "magnitude": 4.6,
+    "latitude": 28.411,
+    "longitude": 129.2947,
+    "depth_km": 58.732,
+    "place": "13 km NNE of Uken, Japan",
+    "time": 1774041561404,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shyj"
+  },
+  {
+    "event_id": "us6000shxy",
+    "magnitude": 4.8,
+    "latitude": -19.9846,
+    "longitude": -70.958,
+    "depth_km": 16.447,
+    "place": "87 km WNW of Puerto, Chile",
+    "time": 1774037214072,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shxy"
+  },
+  {
+    "event_id": "us6000shxt",
+    "magnitude": 4.6,
+    "latitude": -19.2651,
+    "longitude": 168.3442,
+    "depth_km": 10,
+    "place": "103 km WNW of Isangel, Vanuatu",
+    "time": 1774036520775,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shxt"
+  },
+  {
+    "event_id": "us6000shx5",
+    "magnitude": 4.7,
+    "latitude": -4.9055,
+    "longitude": 145.1764,
+    "depth_km": 112.576,
+    "place": "76 km WNW of Madang, Papua New Guinea",
+    "time": 1774031528768,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shx5"
+  },
+  {
+    "event_id": "us7000s8u0",
+    "magnitude": 4.6,
+    "latitude": -14.9811,
+    "longitude": 166.9394,
+    "depth_km": 43.188,
+    "place": "15 km WNW of Port-Olry, Vanuatu",
+    "time": 1774031207364,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8u0"
+  },
+  {
+    "event_id": "us6000shvi",
+    "magnitude": 4.7,
+    "latitude": -32.1984,
+    "longitude": -71.7088,
+    "depth_km": 54.369,
+    "place": "53 km WNW of La Ligua, Chile",
+    "time": 1774020645182,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shvi"
+  },
+  {
+    "event_id": "us6000shus",
+    "magnitude": 4.8,
+    "latitude": -20.6704,
+    "longitude": -178.4172,
+    "depth_km": 574.643,
+    "place": "Fiji region",
+    "time": 1774017923714,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shus"
+  },
+  {
+    "event_id": "us7000s8tv",
+    "magnitude": 4.6,
+    "latitude": -23.0024,
+    "longitude": 68.856,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774015213407,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8tv"
+  },
+  {
+    "event_id": "us6000shu0",
+    "magnitude": 4.8,
+    "latitude": -5.3187,
+    "longitude": 153.6492,
+    "depth_km": 62.734,
+    "place": "187 km SE of Kokopo, Papua New Guinea",
+    "time": 1774015047321,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shu0"
+  },
+  {
+    "event_id": "us6000shth",
+    "magnitude": 4.9,
+    "latitude": 23.7894,
+    "longitude": 121.6558,
+    "depth_km": 27.664,
+    "place": "21 km SSE of Hualien City, Taiwan",
+    "time": 1774013561419,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shth"
+  },
+  {
+    "event_id": "us6000shtc",
+    "magnitude": 4.6,
+    "latitude": -24.5774,
+    "longitude": -66.8199,
+    "depth_km": 210.514,
+    "place": "64 km SW of San Antonio de los Cobres, Argentina",
+    "time": 1774012409792,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shtc"
+  },
+  {
+    "event_id": "us7000s8tr",
+    "magnitude": 4.6,
+    "latitude": -21.8252,
+    "longitude": 68.8151,
+    "depth_km": 10,
+    "place": "Mid-Indian Ridge",
+    "time": 1774010001067,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8tr"
+  },
+  {
+    "event_id": "us6000sht8",
+    "magnitude": 4.9,
+    "latitude": 2.2654,
+    "longitude": 96.2104,
+    "depth_km": 10,
+    "place": "30 km SW of Sinabang, Indonesia",
+    "time": 1774009689477,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sht8"
+  },
+  {
+    "event_id": "us6000shst",
+    "magnitude": 4.5,
+    "latitude": -8.5174,
+    "longitude": 106.6601,
+    "depth_km": 21.32,
+    "place": "169 km SSW of Banjar, Indonesia",
+    "time": 1774005633692,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shst"
+  }
+]

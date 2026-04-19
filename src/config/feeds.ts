@@ -10,31 +10,19 @@ const railwayRss = rssProxyUrl;
 export { SOURCE_TIERS, getSourceTier } from '../../server/_shared/source-tiers';
 
 
-export type SourceType = 'wire' | 'gov' | 'intel' | 'mainstream' | 'market' | 'tech' | 'other';
+export type SourceType = 'wire' | 'gov' | 'mainstream' | 'tech' | 'humanitarian';
 
 export const SOURCE_TYPES: Record<string, SourceType> = {
   // Wire services - fastest, most authoritative
-  'Reuters': 'wire', 'Reuters World': 'wire', 'Reuters Business': 'wire',
+  'Reuters': 'wire', 'Reuters World': 'wire',
   'AP News': 'wire', 'AFP': 'wire', 'Bloomberg': 'wire',
 
-  // Government & International Org sources
-  'White House': 'gov', 'State Dept': 'gov', 'Pentagon': 'gov',
-  'Treasury': 'gov', 'DOJ': 'gov', 'DHS': 'gov', 'CDC': 'gov',
-  'FEMA': 'gov', 'Federal Reserve': 'gov', 'SEC': 'gov',
-  'UN News': 'gov', 'CISA': 'gov',
-
-  // Intel/Defense specialty
-  'Defense One': 'intel', 'Breaking Defense': 'intel', 'The War Zone': 'intel',
-  'Defense News': 'intel', 'Janes': 'intel', 'Military Times': 'intel', 'Task & Purpose': 'intel',
-  'USNI News': 'intel', 'gCaptain': 'intel', 'Oryx OSINT': 'intel', 'UK MOD': 'gov',
-  'Bellingcat': 'intel', 'Krebs Security': 'intel',
-  'Foreign Policy': 'intel', 'The Diplomat': 'intel',
-  'Atlantic Council': 'intel', 'Foreign Affairs': 'intel',
-  'CrisisWatch': 'intel',
-  'CSIS': 'intel', 'RAND': 'intel', 'Brookings': 'intel', 'Carnegie': 'intel',
-  'IAEA': 'gov', 'WHO': 'gov', 'UNHCR': 'gov',
-  'Xinhua': 'wire', 'TASS': 'wire', 'RT': 'wire', 'RT Russia': 'wire',
-  'NHK World': 'mainstream', 'Nikkei Asia': 'market',
+  // Government & International Org sources (disaster-relevant)
+  'CDC': 'gov', 'FEMA': 'gov', 'DHS': 'gov',
+  'UN News': 'gov', 'WHO': 'gov', 'UNHCR': 'gov',
+  'IAEA': 'gov', 'FAO': 'gov', 'ReliefWeb': 'humanitarian',
+  'Xinhua': 'wire', 'TASS': 'wire', 'RT': 'wire',
+  'NHK World': 'mainstream',
 
   // Mainstream outlets
   'BBC World': 'mainstream', 'BBC Middle East': 'mainstream',
