@@ -63,6 +63,7 @@ import { t } from '@/services/i18n';
 import { debounce, rafSchedule, getCurrentTheme } from '@/utils/index';
 import { showLayerWarning } from '@/utils/layer-warning';
 import { localizeMapLabels } from '@/utils/map-locale';
+import { loadDisasterEvents, getDisasterColor, getSeverityRadius, type DisasterEvent } from '@/loaders/disaster-loader';
 import {
   INTEL_HOTSPOTS,
   CONFLICT_ZONES,
@@ -447,6 +448,7 @@ export class DeckGLMap {
   private radiationObservations: RadiationObservation[] = [];
   private diseaseOutbreaks: DiseaseOutbreakItem[] = [];
   private tradeRouteSegments: TradeRouteSegment[] = resolveTradeRouteSegments();
+  private disasterEvents: DisasterEvent[] = [];
   private tradeTrips: TripData[] = [];
   private tradeAnimationTime = 0;
   private tradeAnimationFrame: number | null = null;
@@ -622,6 +624,7 @@ export class DeckGLMap {
       this.initDeck();
       this.loadCountryBoundaries();
       this.fetchServerBases();
+      this.loadDisasterEvents();
       this.render();
     });
 
@@ -1571,6 +1574,11 @@ export class DeckGLMap {
       layers.push(this.createFiresLayer(filteredFirmsFireData));
     }
 
+    // Disaster events layer (EONET + USGS)
+    if (this.disasterEvents.length > 0) {
+      layers.push(this.createDisasterEventsLayer(this.disasterEvents));
+    }
+
     // Iran events layer
     if (mapLayers.iranAttacks && filteredIranEvents.length > 0) {
       layers.push(this.createIranEventsLayer(filteredIranEvents));
@@ -2378,6 +2386,23 @@ export class DeckGLMap {
       },
       radiusMinPixels: 3,
       radiusMaxPixels: 12,
+      pickable: true,
+    });
+  }
+
+  private createDisasterEventsLayer(events: DisasterEvent[]): ScatterplotLayer {
+    return new ScatterplotLayer({
+      id: 'disaster-events-layer',
+      data: events,
+      getPosition: (d: DisasterEvent) => d.geometry.coordinates,
+      getRadius: (d: DisasterEvent) => getSeverityRadius(d.properties.severity_score),
+      getFillColor: (d: DisasterEvent) => {
+        const [r, g, b] = getDisasterColor(d.properties.disaster_type);
+        const alpha = d.properties.severity_score >= 70 ? 220 : 180;
+        return [r, g, b, alpha] as [number, number, number, number];
+      },
+      radiusMinPixels: 4,
+      radiusMaxPixels: 24,
       pickable: true,
     });
   }
@@ -5417,6 +5442,11 @@ export class DeckGLMap {
     this.render();
   }
 
+  public setDisasterEvents(events: DisasterEvent[]): void {
+    this.disasterEvents = events;
+    this.render();
+  }
+
   public setWeatherAlerts(alerts: WeatherAlert[]): void {
     this.weatherAlerts = alerts;
     this.render();
@@ -5548,6 +5578,16 @@ export class DeckGLMap {
     }).catch((err) => {
       console.error('[bases] fetch error', err);
     });
+  }
+
+  private loadDisasterEvents(): void {
+    loadDisasterEvents()
+      .then((events) => {
+        this.setDisasterEvents(events);
+      })
+      .catch((err) => {
+        console.error('Failed to load disaster events:', err);
+      });
   }
 
   private manageAircraftTimer(enabled: boolean): void {
